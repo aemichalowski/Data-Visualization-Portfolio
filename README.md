@@ -14,8 +14,12 @@ I am taking telling stories with data to learn how to make clear, professional v
 
 # Portfolio
 
-## Assignment 1
+## Data Visualization Critique #1
 
-## Assignment 2
+## Data Visualization Assignment 1
+
+## Data Visualization Critique #2
+
+## Data Visualization Assignment 2
 
 ## Final Project
