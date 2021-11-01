@@ -18,7 +18,7 @@ I am taking telling stories with data to learn how to make clear, professional v
 
 ## Data Visualization Assignment 1
 
-https://aemichalowski.github.io/Data-Visualization-Portfolio/dataviz_government_debt
+https://aemichalowski.github.io/Data-Visualization-Portfolio/dataviz1_government_debt
 
 ## Data Visualization Critique #2
 
