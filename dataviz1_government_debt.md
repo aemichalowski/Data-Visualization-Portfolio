@@ -9,7 +9,7 @@
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7700575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
+<div class="flourish-embed flourish-slope" data-src="visualisation/7701188"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 Return to portfolio: https://aemichalowski.github.io/Data-Visualization-Portfolio
