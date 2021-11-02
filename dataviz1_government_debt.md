@@ -7,6 +7,8 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7697432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7701336"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7700575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/7701188"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
