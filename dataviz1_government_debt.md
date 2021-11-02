@@ -12,12 +12,12 @@ Flourish is a free, web-based data visualization tool with many pre-built templa
 <br />
 The grid of line charts below displays time series data of the debt-to-GDP ratio for each country included in the OECD data. The visualization consists of several subplots, each of which represents a unique country. Separating each country allows the viewer to more easily see trends for distinct countries, while the shared axes allow for these trends to be compared between countries.
 <br />
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7697432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ### Line Chart with Highlight
 <br />
 Line charts are a classic method of displaying time series data as the lines. However, when there are many categories included in one plot, the line chart can become cluttered. As such, it is helpful to highlight specific data of interest. In this chart, I highlight the average debt-to-gdp ratio over time for all reported countries.
 <br />
-<div class="flourish-embed flourish-chart" data-src="visualisation/7697432"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/7701336"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7700575"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
