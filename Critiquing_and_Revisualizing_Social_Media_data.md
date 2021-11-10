@@ -25,50 +25,44 @@ Insert the critique
 Insert Explanation
  
 #### Feedback
+
 **User 1**
 
 Can you tell me what you think this is?
 
-_The plot shows the differences in amount of time on social media between different groups over time (2014->2018)
-_
+_The plot shows the differences in amount of time on social media between different groups over time (2014->2018)_
 
 Can you describe to me what this is telling you? 
 
 
-_There has been an upward trend in social media in general, but younger generations spend more time on social media.
-_
+_There has been an upward trend in social media in general, but younger generations spend more time on social media._
 
 Is there anything you find surprising or confusing?
 
-_No, this is pretty standard. I would like to maybe see a breakdown by smaller time spans like months if it were available. Maybe you could add age ranges for the generations.
-_
+_No, this is pretty standard. I would like to maybe see a breakdown by smaller time spans like months if it were available. Maybe you could add age ranges for the generations._
 
 Is there anything you would do differently?
 
 _You could add different marker types for the generations. I don't think you need Year on the x-axis either since the labels already make it clear what you're talking about._
-_
+
 **User 2**
 
 Can you tell me what you think this is?
 
 
-_A graph about how much people use social media.
-_
+_A graph about how much people use social media._
 
 Can you describe to me what this is telling you?
 
-_As time progresses, use of social media has been increasing and young people use it a lot more.
-_
+_As time progresses, use of social media has been increasing and young people use it a lot more._
 
 Is there anything you find surprising or confusing?
 
-_Not really.
-_
+_Not really._
 
 Is there anything you would change or do differently?
 
-_I don't think so.
-_
+_I don't think so._
 
 ### Graphic 2
 ![IMG_0556](https://user-images.githubusercontent.com/93174933/141028409-332a2da1-fa3c-4d81-9c63-68e61fcb8f3f.jpg)
