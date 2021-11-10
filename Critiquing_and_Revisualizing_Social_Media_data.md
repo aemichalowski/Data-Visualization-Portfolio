@@ -122,7 +122,10 @@ GWI’s analysis of social media use finds that multi-networking varies among ge
 
 ### Feedback Reflected in Final Design
 
-Explain how I used the feedback
+For the line chart, I did not get much feedback from the critiques as both reviewers generally liked this chart. One interesting piece of feedback was to remove the ‘Year’ label on the x-axis, which I incorporated as it was redundant. I chose the line chart because it clearly showed trends in the data over time, and both of my reviewers clearly understood this, and when interpreting the meaning of the chart, they commented on trends in the time spent using social media by generation. Thus, the critique justified the rationale behind my redesign.
+
+I made extensive changes to my circle plot in response to the feedback I received from the critique. My reviewers were very confused by my original sketch. While it was easier to differentiate the sizes of the circles, the meaning of the numbers in the circles was confusing to viewers as it did not directly relate to the axes. Additionally, the coloring put an emphasis on comparing values within a generation rather than making comparisons by region. In response, I redesigned the visualization to a connected dot plot. The connecting line connects dots within a region which portrays each region as a unit that can be compared to one another. This puts more of an emphasis on comparing generational trends between regions rather than looking at differences within one generation by region. Additionally, the connected dot plot includes the multi-networking units (average number of social media accounts per person) on an axis which makes the information much easier to interpret. This style of chart allowed me to maintain the same color scheme without the color scheme distracting from the regional comparisons. 
+
 
 
 Return to portfolio: https://aemichalowski.github.io/Data-Visualization-Portfolio/
