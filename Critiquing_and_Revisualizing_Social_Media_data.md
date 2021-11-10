@@ -65,49 +65,6 @@ Is there anything you would change or do differently?
 _I don't think so._
 
 ### Graphic 2
-![IMG_0556](https://user-images.githubusercontent.com/93174933/141028409-332a2da1-fa3c-4d81-9c63-68e61fcb8f3f.jpg)
-
- 
-#### Design Rationale
-Insert Explanation
- 
-#### Feedback
-**User 1**
-
-Can you tell me what you think this is?
-
-_The plot shows the percent of each generation that uses different social media platforms_
-
-Can you describe to me what this is telling you?
-
-_In general, the younger generations have a higher percent of using all forms of social media, though Youtube and Facebook have fairly high overall use among all generations._
-
-Is there anything you find surprising or confusing?
-
-_It is interesting how big the disparity between age groups is for Twitter and Instagram._
-
-Is there anything you would change or do differently?
-
-_Maybe use subplots, but it also looks good like this_
-
-**User 2**
-
-Can you tell me what you think this is? 
-
-_A graph of what kind of social media people use_
-
-Can you describe what this is telling you?
-
-_The percent of each generation who use different apps or social media sites._
-
-Is there anything surprising or confusing?
-
-_Which people use the apps? Is it population percents or the percent of time being used? The y-axis isn't clear._
-
-Is there anything you would change or do differently?
-
-_I like when the percent is shown on or above the bars because it can be hard to read the axis when there are so many bars._
-### Graphic 3
 ![IMG_0555](https://user-images.githubusercontent.com/93174933/141028431-a8dccb70-8a3a-40d2-9a6e-214a366b4592.jpg)
 
  
@@ -158,7 +115,6 @@ _I want it to tell me what its trying to say. Speak your truth chart. But in all
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7780306"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7780344"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback Reflected in Final Design
 
