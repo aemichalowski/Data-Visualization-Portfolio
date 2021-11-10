@@ -117,6 +117,8 @@ Since 2014, the average amount of time spent on social media per day has been in
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7780306"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+GWI’s analysis of social media use finds that multi-networking varies among generations with higher rates of multi-networking among Generation Z and Millenials compared to Generation X and Baby Boomers. Multi-networking trends also differ between regions and among generations by region. Latin America and the Asia Pacific region have higher overall rate of multi-networking, so marketing strategies that are useful for multi-networking would be appropriate for many of the population segments in these regions. The Middle East and North Africa region has a much smaller range of multi-networking among generations ranging from 6.4 to 8.5. Additionally, generation Z has lower multi-networking rates than Generation X and Millenials in this region, which is a trend not found in other regions. These unique trends may warrant further exploration to understand how the social context of the countries influences multi-networking and other aspects of social media use in order to better develop  marketing strategies for this region. 
+
 
 ### Feedback Reflected in Final Design
 
