@@ -69,7 +69,7 @@ _I don't think so._
 
  
 #### Design Rationale
-Insert Explanation
+To redesign the circle chart, I focused on aligning the values for each region, so that generational trends could be compared through each region. I maintained the same color scheme for generations and represented the generations on the x-axis to make sure it was clear. I included the average number of social media accounts on each circle because it can be difficult to interpret the meaning of size differences alone. I also added a description of what the numbers represented because this was difficult to understand in the original infographic. I did notice that the color scheme still drew your eye to the generation categories, but unsure of the best way to fix this, I sought feedback from my reviewers.
  
 #### Feedback
 
