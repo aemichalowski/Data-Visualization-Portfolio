@@ -9,7 +9,7 @@ Link: https://www.visualcapitalist.com/visualizing-social-media-use-by-generatio
 
 
 ### What Makes this Visualization Interesting
-Insert description of why I chose the graphic
+Throughout this project, I will revisualize data on social media trends among generations originally presented by GWI as seen above. The infographic details generational trends in social media use and is intended for a marketing audience who wants to understand how to reach particular segments of its target audience. I chose this infographic because it was very eye-catching and aesthetically pleasing, but upon closer inspection did not clearly convey the data. The data characterizes each of the target segments by their social media use and even explores trends across regions for global marketers, but in its current form, it is difficult to make accurate comparisons between groups because the styles of charts used do not suit the data. Thus, I decided I would explore this data and revisualize it, so that this useful information could be more clearly communicated to the target audience and show the impact of design choices on the meaning of data. 
 
 ### Critiquing the Initial Graphic
 
