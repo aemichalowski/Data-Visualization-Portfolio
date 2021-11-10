@@ -115,11 +115,40 @@ _I like when the percent is shown on or above the bars because it can be hard to
 Insert Explanation
  
 #### Feedback
-Insert feedback
 
-### User Testing my Solutions
+Can you tell me what you think this is?
 
-Insert critique from others
+_The plot shows the average social media accounts by generation and region._
+
+Can you describe to me what this is telling you?
+
+_Younger generations have more accounts than older generations. People in Latin America and Asia have more accounts than people in other regions._
+
+Is there anything you find surpsising or confusing?
+
+_I think the size of the dot is not a super clear representation of the number. I think these kinds of charts work better if there are bigger differences in the numbers and sizes. With the colors and the axes, it is difficult to focus on the regions because my eye is drawn to the colored generations. It is just a little overwhelming._
+
+Is there anything you would change or do differently?
+
+_I wouldn't use different colors for different generations. Maybe use a heatmap on a table or something else. I just don't think the dot size thing is working._
+
+**User 2**
+
+Can you tell me what you think this is?
+
+_A plot of social media accounts for different regions and generations_
+
+Can you describe what this is telling you?
+
+_Not really.It is pretty confusing._
+
+Is there anything you find surprising or confusing?
+
+_Assuming the number is the number of separate social media accounts a single person has, I think, some of these groups have way more accounts than I would have expected._
+
+Is there anything you would change of do differently?
+
+_I want it to tell me what its trying to say. Speak your truth chart. But in all seriousness, I think it just needs a different design. There's too much going on here for me to figure out what  you're trying to tell me._
 
 ## Final Redesign
 
