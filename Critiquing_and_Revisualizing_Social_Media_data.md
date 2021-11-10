@@ -154,7 +154,11 @@ _I want it to tell me what its trying to say. Speak your truth chart. But in all
 
 ### Trends in Social Media Use by Generation
 
-Insert final redesigns 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7779922"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7780306"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7780344"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Feedback Reflected in Final Design
 
