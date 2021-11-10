@@ -113,6 +113,8 @@ _I want it to tell me what its trying to say. Speak your truth chart. But in all
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7779922"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Since 2014, the average amount of time spent on social media per day has been increasing across generations. While Millenials spent the most time on social media from 2014-2016, Generation Z has surpassed Millenials and used social media the most in 2017 and 2018. Both Millenials and Generation Z for much more time per day than Generation X and Baby Boomers, so social media outreach may be of particular use when targeting these generations. Interestingly, the increase in time on social media appears to have plateaued for Millenials, Generation X, and Baby Boomers between 2016 and 2018. With millennials reporting a slight decrease in social media use in 2018, it will be important to monitor social media use by generation going forward to assess how much of a role social media continues to play in the lives of people in different generations and target advertisements appropriately.
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7780306"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
