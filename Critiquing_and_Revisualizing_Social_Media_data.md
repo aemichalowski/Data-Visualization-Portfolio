@@ -5,7 +5,7 @@
 
 ![GWI Social Media Graphic](https://user-images.githubusercontent.com/93174933/141027287-fb30d021-e1ee-4df1-94b8-1875a2bfb901.PNG)
 
-Link: https://www.visualcapitalist.com/visualizing-social-media-use-by-generation/
+Link: [https://www.visualcapitalist.com/visualizing-social-media-use-by-generation/](https://www.visualcapitalist.com/visualizing-social-media-use-by-generation/)
 
 
 ### What Makes this Visualization Interesting
@@ -128,4 +128,4 @@ I made extensive changes to my circle plot in response to the feedback I receive
 
 
 
-Return to portfolio: https://aemichalowski.github.io/Data-Visualization-Portfolio/
+Return to portfolio: [https://aemichalowski.github.io/Data-Visualization-Portfolio/](https://aemichalowski.github.io/Data-Visualization-Portfolio/)
