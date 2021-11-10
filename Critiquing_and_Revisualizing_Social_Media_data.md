@@ -22,7 +22,7 @@ The original infographic is very aesthetically pleasing. The bright colors are a
 
  
 #### Design Rationale
-Insert Explanation
+To redesign the stacked area chart, I drew a line chart that represents change over time. I maintained the constant color scheme for each generation, though I changed the average to a pale grey so that it would not stand out as much. A line chart is a conventional way of demonstrating change over time, and by using straight connector lines rather than curves, I put an emphasis on the slope as the authors discussed. I represented the year on the x-axis and the minutes of social media on the y-axis for a continuous variable, minutes were a more clear representation than decimal portions of an hour. 
  
 #### Feedback
 
