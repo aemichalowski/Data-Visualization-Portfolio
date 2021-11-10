@@ -29,37 +29,54 @@ Insert Explanation
 
 Can you tell me what you think this is?
 
-The plot shows the differences in amount of time on social media between different groups over time (2014->2018)
+```diff
++ The plot shows the differences in amount of time on social media between different groups over time (2014->2018)
+```
 
 Can you describe to me what this is telling you? 
 
-There has been an upward trend in social media in general, but younger generations spend more time on social media.
+```diff
++ There has been an upward trend in social media in general, but younger generations spend more time on social media.
+```
 
 Is there anything you find surprising or confusing?
 
-No, this is pretty standard. I would like to maybe see a breakdown by smaller time spans like months if it were available. Maybe you could add age ranges for the generations.
+```diff
++ No, this is pretty standard. I would like to maybe see a breakdown by smaller time spans like months if it were available. Maybe you could add age ranges for the generations.
+```
 
 Is there anything you would do differently?
 
-You could add different marker types for the generations.
+```diff
++ You could add different marker types for the generations.
+```
 
 **User 2**
 
 Can you tell me what you think this is?
 
-A graph about how much people use social media.
+```diff
++ A graph about how much people use social media.
+```
 
 Can you describe to me what this is telling you?
 
-As time progresses, use of social media has been increasing and young people use it a lot more.
+```diff
++ As time progresses, use of social media has been increasing and young people use it a lot more.
+```
 
 Is there anything you find surprising or confusing?
 
-Not really.
+```diff
++ Not really.
+```
 
 Is there anything you would change or do differently?
 
-I don't think so.
+```diff
++ I don't think so.
+```
+
 ### Graphic 2
 ![IMG_0556](https://user-images.githubusercontent.com/93174933/141028409-332a2da1-fa3c-4d81-9c63-68e61fcb8f3f.jpg)
 
