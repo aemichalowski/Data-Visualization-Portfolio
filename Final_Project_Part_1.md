@@ -197,11 +197,11 @@ The third visualization shows a dot plot comparing rural and urban providers and
 
 I will use data from the rural health information hub to describe health disparities in rural areas. This source contains several tables that communicate disparities in key health indicators like mortality, obesity, and heart disease. Additionally, it contains summary research that describes other rural health disparities that will support the story telling aspect of this project. Should I decide to include visualizations that require health statistics not available directly on this page, there are several links to additional useful pages.
 
-[Demographics of Internet and Home Broadband Usage in the United States | Pew Research Center](https://www.pewresearch.org/internet/fact-sheet/internet-broadband/?menuItem=89fe9877-d6d0-42c5-bca0-8e6034e300aa)
+[Demographics of Internet and Home Broadband Usage in the United States \| Pew Research Center](https://www.pewresearch.org/internet/fact-sheet/internet-broadband/?menuItem=89fe9877-d6d0-42c5-bca0-8e6034e300aa)
 
 This data from Pew contains longitudinal data on overall internet use, broadband availability, and smartphone reliance. I plan to use each of these characteristics to examine recent trends in digital infrastructure accessibility and use among rural, suburban, and urban populations in my visualizations. This data will help explain how limited broadband availability has played a role in the limited use of telehealth and low levels of digital literacy in rural communities.
 
-[Mapping Broadband Health in America | Federal Communications Commission (fcc.gov)](https://www.fcc.gov/health/maps)
+[Mapping Broadband Health in America \| Federal Communications Commission (fcc.gov)](https://www.fcc.gov/health/maps)
 
 The FCC data contains county level measures of broadband and many health statistics and utilization factors. I will use this data to help map characteristics of rural counties such as patient to population ratio, the number of beds available, and the average speed of broadband available.
 
@@ -211,7 +211,7 @@ The FCC data contains county level measures of broadband and many health statist
 
 Data from the National Telecommunications and Information Administration provides better data than the FCC for exploring the availability of broadband in local communities. The county level data provided by the FCC can be deceptive when there are high levels of variation in a county. I will use this data to produce a series of maps that explore how the disparities in broadband availability among rural communities become more visible as you drill down to more localized geographic regions. Additionally, I utilize this map to spotlight Pennsylvania in a case study example exploring broadband limitations in an individual state and how these variations correspond with other characteristics like health statistics and health providers.
 
-[Rural vs. urban telehealth: a look at the stats | RingCentral](https://www.ringcentral.com/us/en/blog/rural-vs-urban-telehealth-a-look-at-the-stats/)
+[Rural vs. urban telehealth: a look at the stats \| RingCentral](https://www.ringcentral.com/us/en/blog/rural-vs-urban-telehealth-a-look-at-the-stats/)
 
 This website contains publicly accessible data from a survey on the trend of increased telehealth uptake during COVID-19 split by rural and urban groups. Much of this data focuses on the provider's view of telehealth, and I plan to use this to support my section on provider related barriers to telehealth uptake. Specifically, I will use this to build a visualization that communicates the barriers rural providers (versus urban providers) cite to telehealth uptake and tie these in to my recommendations.
 
