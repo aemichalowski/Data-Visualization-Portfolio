@@ -22,10 +22,9 @@
   - Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 - Barriers to healthcare access and utilization, which contribute to poor health outcomes
   - Healthcare infrastructure
-   - Provider shortages
-   	   - "Less than 8% of physicians practice in rural areas"
-
-	   - Less specialists
+    - Provider shortages
+      - "Less than 8% of physicians practice in rural areas"
+      - Less specialists
 
    - Financial problems among hospitals and other healthcare providers
 
