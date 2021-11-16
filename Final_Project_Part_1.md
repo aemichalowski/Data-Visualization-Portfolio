@@ -163,7 +163,7 @@ Sources:
 
 9. Rural Health Information Hub. Telehealth Use in Rural Healthcare. Available from: https://www.ruralhealthinfo.org/topics/telehealth.
 
-10. Weigel, G., et al., Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond, in Kaiser Family Foundation. 2020. Available from: [Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond | KFF](https://www.kff.org/womens-health-policy/issue-brief/opportunities-and-barriers-for-telemedicine-in-the-u-s-during-the-covid-19-emergency-and-beyond/)
+10. Weigel, G., et al., Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond, in Kaiser Family Foundation. 2020. Available from: [Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond KFF](https://www.kff.org/womens-health-policy/issue-brief/opportunities-and-barriers-for-telemedicine-in-the-u-s-during-the-covid-19-emergency-and-beyond/)
 
 11. HHS. Telehealth: Delivering Care Safely During COVID-19. Available from: <https://www.hhs.gov/coronavirus/telehealth/index.html>.
 
