@@ -10,7 +10,7 @@
 
 1. **Introduction** *(Pull in the audience, establish the problem, and inform the audience that you will be sharing solutions)*
 
-  a. Brief overview introducing the concept of health disparities in rural America
+	a. Brief overview introducing the concept of health disparities in rural America
 
   b. Introduce access to care and care utilization as mechanisms as contributors to poor health outcomes
 
