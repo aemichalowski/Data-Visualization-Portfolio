@@ -94,39 +94,22 @@
 6.**Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
 * Riding the wave of telehealth legislation in the wake of COVID-19
-
     * Many examples of legislation to allow more services to be provided via telehealth and establish reimbursement for telehealth
-
         * HIPAA flexibility
-
         * Telehealth waivers through CMS
-
             * Telehealth across state lines
-
             * New patients
-
             * Bill for many telehealth services
-
             * Expanded range of telehealth services covered by FQHCs and rural health clinics
-
             * Expand list of telehealth services covered by Medicare
-
             * Allow private insurers to modify benefits mid-year to expand telehealth coverage
-
             * Allow for initiation of and continuous prescribing of medication assisted treatment for substance use disorders
-
         * Many of these have not been permanently legislated and are still temporary policies during COVID, so efforts should be made to establish permanent policies for telehealth as these regulations supported the uptake of telehealth across the country
-
 * Connecting local providers with resources to improve the uptake of telehealth
-
     * Distance Learning and Telemedicine Grants
-
         * Providing funds for health systems to acquire video conferencing equipment and software
-
         * Funding for more and higher quality broadband infrastructure for health systems
-
         * Establishing resources for telecommunication at local community hubs like schools
-
     * Establishing workforce training programs
 
 7.**Call to Action: As a public health official or community advocate, you can work to improve telehealth access in your rural communities** *(Next steps for the audience)*
