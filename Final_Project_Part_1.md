@@ -16,34 +16,27 @@
 * Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
 
 2.**Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
-
-- Disparities in health outcomes
-    - Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
-- Barriers to healthcare access and utilization, which contribute to poor health outcomes
-    - Healthcare infrastructure
-        - Provider shortages
-           - "Less than 8% of physicians practice in rural areas"
-           - Less specialists
-       - Financial problems among hospitals and other healthcare providers
-           - More than 130 closures of rural hospitals since 2010
-           - Lower hospital beds, physicians, and specialists per capita
-		- Geographic challenges
+* Disparities in health outcomes
+    * Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+* Barriers to healthcare access and utilization, which contribute to poor health outcomes
+    * Healthcare infrastructure
+        * Provider shortages
+           * "Less than 8% of physicians practice in rural areas"
+           * Less specialists
+       * Financial problems among hospitals and other healthcare providers
+           * More than 130 closures of rural hospitals since 2010
+           * Lower hospital beds, physicians, and specialists per capita
+		* Geographic challenges
   			* Distance to providers
   			    * Time
   		    	* Transportation
-  		- Lower density of emergency medical services
-
-  	- Socio-economic and cultural
-
-		- Lower education and health literacy
-
-  		- High rates of poor health related behaviors (smoking, drinking, stress, sleep)
-
-  		- High rates of unemployment
-
-  		- Low incomes
-
-  		- High rates of Medicaid enrollment
+  		* Lower density of emergency medical services
+  	* Socio-economic and cultural
+		* Lower education and health literacy
+  		* High rates of poor health related behaviors (smoking, drinking, stress, sleep)
+  		* High rates of unemployment
+  		* Low incomes
+  		* High rates of Medicaid enrollment
 
 3.**Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
 
