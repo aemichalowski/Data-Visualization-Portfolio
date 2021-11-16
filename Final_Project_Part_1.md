@@ -19,15 +19,15 @@
 2. **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
 
 - Disparities in health outcomes
-   - Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+    - Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 - Barriers to healthcare access and utilization, which contribute to poor health outcomes
-   - Healthcare infrastructure
-      - Provider shortages
-         - "Less than 8% of physicians practice in rural areas"
-         - Less specialists
-      - Financial problems among hospitals and other healthcare providers
-         - More than 130 closures of rural hospitals since 2010
-         - Lower hospital beds, physicians, and specialists per capita
+    - Healthcare infrastructure
+        - Provider shortages
+           - "Less than 8% of physicians practice in rural areas"
+           - Less specialists
+       - Financial problems among hospitals and other healthcare providers
+           - More than 130 closures of rural hospitals since 2010
+           - Lower hospital beds, physicians, and specialists per capita
     - Geographic challenges
   		- Distance to providers
   			- Time
