@@ -153,7 +153,7 @@ Sources:
 
 4. One in 10 Americans Use Telehealth, But Nearly 75% Lack Awareness or Access, J.D. Power Finds, in PRNewsWire. 2019, J.D. Power. Available from: [One in 10 Americans Use Telehealth, But Nearly 75% Lack Awareness or Access, J.D. Power Finds (prnewswire.com)](https://www.prnewswire.com/news-releases/one-in-10-americans-use-telehealth-but-nearly-75-lack-awareness-or-access-jd-power-finds-300892939.html)
 
-5. Perrin, A., Digital gap between rural and nonrural America persists. 2019. Available from [Digital gap between rural and nonrural America persists | Pew Research Center](https://www.pewresearch.org/fact-tank/2019/05/31/digital-gap-between-rural-and-nonrural-america-persists/)
+5. Perrin, A., Digital gap between rural and nonrural America persists. 2019. Available from [Digital gap between rural and nonrural America persists  Pew Research Center](https://www.pewresearch.org/fact-tank/2019/05/31/digital-gap-between-rural-and-nonrural-america-persists/)
 
 6. National Rural Health Association. About Rural Health Care. Available from: <https://www.ruralhealthweb.org/about-nrha/about-rural-health-care>.
 
@@ -161,7 +161,7 @@ Sources:
 
 8. Schadelbauer, R., Anticipating Economic Returns of Rural Telehealth. 2017. Available from [Microsoft Word - Report - Final Times Roman.docx (ntca.org)](https://www.ntca.org/sites/default/files/documents/2017-12/SRC_whitepaper_anticipatingeconomicreturns.pdf)
 
-9. Rural Health Information Hub. Telehealth Use in Rural Healthcare. Available from: <https://www.ruralhealthinfo.org/topics/telehealth>.
+9. Rural Health Information Hub. Telehealth Use in Rural Healthcare. Available from: https://www.ruralhealthinfo.org/topics/telehealth.
 
 10. Weigel, G., et al., Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond, in Kaiser Family Foundation. 2020. Available from: [Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond | KFF](https://www.kff.org/womens-health-policy/issue-brief/opportunities-and-barriers-for-telemedicine-in-the-u-s-during-the-covid-19-emergency-and-beyond/)
 
