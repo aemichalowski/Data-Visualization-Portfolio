@@ -260,37 +260,37 @@
   		- Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
 
 Sources:
-	-Rural Health Information Hub. Rural Health Disparities. Available from: <https://www.ruralhealthinfo.org/topics/rural-health-disparities>.
+	- Rural Health Information Hub. Rural Health Disparities. Available from: <https://www.ruralhealthinfo.org/topics/rural-health-disparities>.
 
-	-Rural Health Information Hub. Specific Rural Populations that May Benefit from Telehealth. Available from: <https://www.ruralhealthinfo.org/toolkits/telehealth/1/benefits-for-specific-populations>.
+	- Rural Health Information Hub. Specific Rural Populations that May Benefit from Telehealth. Available from: <https://www.ruralhealthinfo.org/toolkits/telehealth/1/benefits-for-specific-populations>.
 
-	-Ellison, A. State-by-state breakdown of 130 rural hospital closures. 2020. Available from: <https://www.beckershospitalreview.com/finance/state-by-state-breakdown-of-130-rural-hospital-closures.html>.
+	- Ellison, A. State-by-state breakdown of 130 rural hospital closures. 2020. Available from: <https://www.beckershospitalreview.com/finance/state-by-state-breakdown-of-130-rural-hospital-closures.html>.
 
-	-One in 10 Americans Use Telehealth, But Nearly 75% Lack Awareness or Access, J.D. Power Finds, in PRNewsWire. 2019, J.D. Power. Available from: [One in 10 Americans Use Telehealth, But Nearly 75% Lack Awareness or Access, J.D. Power Finds (prnewswire.com)](https://www.prnewswire.com/news-releases/one-in-10-americans-use-telehealth-but-nearly-75-lack-awareness-or-access-jd-power-finds-300892939.html)
+	- One in 10 Americans Use Telehealth, But Nearly 75% Lack Awareness or Access, J.D. Power Finds, in PRNewsWire. 2019, J.D. Power. Available from: [One in 10 Americans Use Telehealth, But Nearly 75% Lack Awareness or Access, J.D. Power Finds (prnewswire.com)](https://www.prnewswire.com/news-releases/one-in-10-americans-use-telehealth-but-nearly-75-lack-awareness-or-access-jd-power-finds-300892939.html)
 
-	-Perrin, A., Digital gap between rural and nonrural America persists. 2019. Available from [Digital gap between rural and nonrural America persists | Pew Research Center](https://www.pewresearch.org/fact-tank/2019/05/31/digital-gap-between-rural-and-nonrural-america-persists/)
+	- Perrin, A., Digital gap between rural and nonrural America persists. 2019. Available from [Digital gap between rural and nonrural America persists | Pew Research Center](https://www.pewresearch.org/fact-tank/2019/05/31/digital-gap-between-rural-and-nonrural-america-persists/)
 
-	-National Rural Health Association. About Rural Health Care. Available from: <https://www.ruralhealthweb.org/about-nrha/about-rural-health-care>.
+	- National Rural Health Association. About Rural Health Care. Available from: <https://www.ruralhealthweb.org/about-nrha/about-rural-health-care>.
 
-	-Rural Health Information Hub, Barriers to Telehealth in Rural Areas. Available from: [Barriers to Telehealth in Rural Areas -](https://www.ruralhealthinfo.org/toolkits/telehealth/1/barriers) [RHIhub](https://www.ruralhealthinfo.org/toolkits/telehealth/1/barriers) [Toolkit (ruralhealthinfo.org)](https://www.ruralhealthinfo.org/toolkits/telehealth/1/barriers)
+	- Rural Health Information Hub, Barriers to Telehealth in Rural Areas. Available from: [Barriers to Telehealth in Rural Areas -](https://www.ruralhealthinfo.org/toolkits/telehealth/1/barriers) [RHIhub](https://www.ruralhealthinfo.org/toolkits/telehealth/1/barriers) [Toolkit (ruralhealthinfo.org)](https://www.ruralhealthinfo.org/toolkits/telehealth/1/barriers)
 
-	-Schadelbauer, R., Anticipating Economic Returns of Rural Telehealth. 2017. Available from [Microsoft Word - Report - Final Times Roman.docx (ntca.org)](https://www.ntca.org/sites/default/files/documents/2017-12/SRC_whitepaper_anticipatingeconomicreturns.pdf)
+	- Schadelbauer, R., Anticipating Economic Returns of Rural Telehealth. 2017. Available from [Microsoft Word - Report - Final Times Roman.docx (ntca.org)](https://www.ntca.org/sites/default/files/documents/2017-12/SRC_whitepaper_anticipatingeconomicreturns.pdf)
 
-	-Rural Health Information Hub. Telehealth Use in Rural Healthcare. Available from: <https://www.ruralhealthinfo.org/topics/telehealth>.
+	- Rural Health Information Hub. Telehealth Use in Rural Healthcare. Available from: <https://www.ruralhealthinfo.org/topics/telehealth>.
 
-	-Weigel, G., et al., Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond, in Kaiser Family Foundation. 2020. Available from: [Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond | KFF](https://www.kff.org/womens-health-policy/issue-brief/opportunities-and-barriers-for-telemedicine-in-the-u-s-during-the-covid-19-emergency-and-beyond/)
+	- Weigel, G., et al., Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond, in Kaiser Family Foundation. 2020. Available from: [Opportunities and Barriers for Telemedicine in the U.S. During the COVID-19 Emergency and Beyond | KFF](https://www.kff.org/womens-health-policy/issue-brief/opportunities-and-barriers-for-telemedicine-in-the-u-s-during-the-covid-19-emergency-and-beyond/)
 
-	-HHS. Telehealth: Delivering Care Safely During COVID-19. Available from: <https://www.hhs.gov/coronavirus/telehealth/index.html>.
+	- HHS. Telehealth: Delivering Care Safely During COVID-19. Available from: <https://www.hhs.gov/coronavirus/telehealth/index.html>.
 
-	-Cooper, T. Rural Digital Opportunity Fund (RDOF) -- Map, Auction and Analysis. 2021; Available from: <https://broadbandnow.com/report/rural-digital-opportunity-fund/>.
+	- Cooper, T. Rural Digital Opportunity Fund (RDOF) -- Map, Auction and Analysis. 2021; Available from: <https://broadbandnow.com/report/rural-digital-opportunity-fund/>.
 
-	-USDA. Distance Learning & Telemedicine Grants. Available from: <https://www.rd.usda.gov/programs-services/distance-learning-telemedicine-grants>.
+	- USDA. Distance Learning & Telemedicine Grants. Available from: <https://www.rd.usda.gov/programs-services/distance-learning-telemedicine-grants>.
 
-	-FCC. Emergency Broadband Benefit. Available from: <https://www.fcc.gov/broadbandbenefit>.
+	- FCC. Emergency Broadband Benefit. Available from: <https://www.fcc.gov/broadbandbenefit>.
 
-	-HHS and USDA, Rural Action Plan. 2020. Available from [Department of Health and Human Services - Rural Action Plan - September 2020 (hhs.gov)](https://www.hhs.gov/sites/default/files/hhs-rural-action-plan.pdf)
+	- HHS and USDA, Rural Action Plan. 2020. Available from [Department of Health and Human Services - Rural Action Plan - September 2020 (hhs.gov)](https://www.hhs.gov/sites/default/files/hhs-rural-action-plan.pdf)
 
-	-Jaret, P. Attracting the next generation of physicians to rural medicine. 2020; Available from: <https://www.aamc.org/news-insights/attracting-next-generation-physicians-rural-medicine>.
+	- Jaret, P. Attracting the next generation of physicians to rural medicine. 2020; Available from: <https://www.aamc.org/news-insights/attracting-next-generation-physicians-rural-medicine>.
   
 ### Visualizations
 ![Untitled_Artwork (5)](https://user-images.githubusercontent.com/93174933/141922457-e5568fc8-35a3-4e34-b0de-52a5d8fc739f.png)
