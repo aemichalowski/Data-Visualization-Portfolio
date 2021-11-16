@@ -22,9 +22,9 @@
 
 2. **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
 
-	a. Disparities in health outcomes
+	- a. Disparities in health outcomes
 
-   		-i. Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+   		- i. Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 
   	b. Barriers to healthcare access and utilization, which contribute to poor health outcomes
 
