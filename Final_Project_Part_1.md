@@ -51,16 +51,13 @@
 - Explain what telehealth is
 
 - Why is telehealth particularly suitable for rural areas?
-	- Address physician shortage by connecting patients to providers outside the immediate area
-	- Access to primary care
-	- Access to specialists
+    - Address physician shortage by connecting patients to providers outside the immediate area
+	    - Access to primary care
+	    - Access to specialists
 	- Timely care
-
-  		- Reduce transportation barriers
-
-  		- Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
-
-  		- Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
+    - Reduce transportation barriers
+    - Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
+    - Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
 
 4. **Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
 
