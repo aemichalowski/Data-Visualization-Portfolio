@@ -31,8 +31,9 @@
     - Geographic challenges
   		- Distance to providers
   			- Time
-  			- Transportation
+  		    - Transportation
   		- Lower density of emergency medical services
+
   	- Socio-economic and cultural
 
 		- Lower education and health literacy
