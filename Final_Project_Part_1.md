@@ -1,260 +1,260 @@
-**Audience:** Public health officials and community advocates
+1. **Audience:** Public health officials and community advocates
 
-**Project Overview:** Rural areas experience relatively poor health outcomes. Barriers to healthcare access and utilization contribute to these poor outcomes, and telehealth can help overcome these barriers. However, we must first establish the digital infrastructure necessary to support telehealth in rural communities. The strategies presented in this article can help you improve digital infrastructure and the feasibility of telehealth in your rural community.
+2. **Project Overview:** Rural areas experience relatively poor health outcomes. Barriers to healthcare access and utilization contribute to these poor outcomes, and telehealth can help overcome these barriers. However, we must first establish the digital infrastructure necessary to support telehealth in rural communities. The strategies presented in this article can help you improve digital infrastructure and the feasibility of telehealth in your rural community.
 
-**Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America**
+**3. ****Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America**
 
-- **Introduction** *(Pull in the audience, establish the problem, and inform the audience that you will be sharing solutions)*
+**4. ****Introduction** *(Pull in the audience, establish the problem, and inform the audience that you will be sharing solutions)*
 
-o Brief overview introducing the concept of health disparities in rural America
+a. Brief overview introducing the concept of health disparities in rural America
 
-o Introduce access to care and care utilization as mechanisms as contributors to poor health outcomes
+b. Introduce access to care and care utilization as mechanisms as contributors to poor health outcomes
 
-o Suggest telehealth technologies as potential tools to bridge gaps in healthcare for rural citizens
+c. Suggest telehealth technologies as potential tools to bridge gaps in healthcare for rural citizens
 
-o Caution that existing digital infrastructure and digital literacy must be improved for rural populations to benefit from these advances
+d. Caution that existing digital infrastructure and digital literacy must be improved for rural populations to benefit from these advances
 
-o Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
+e. Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
 
-- **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
+5. **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
 
-  o Disparities in health outcomes
+a. Disparities in health outcomes
 
-    § Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+ i. Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 
-o Barriers to healthcare access and utilization, which contribute to poor health outcomes
+b. Barriers to healthcare access and utilization, which contribute to poor health outcomes
 
-§ Healthcare infrastructure
+ i. Healthcare infrastructure
 
-- Provider shortages
+1. Provider shortages
 
-o "Less than 8% of physicians practice in rural areas"
+a. "Less than 8% of physicians practice in rural areas"
 
-o Less specialists
+b. Less specialists
 
-- Financial problems among hospitals and other healthcare providers
+2. Financial problems among hospitals and other healthcare providers
 
-- More than 130 closures of rural hospitals since 2010
+3. More than 130 closures of rural hospitals since 2010
 
-- Lower hospital beds, physicians, and specialists per capita
+4. Lower hospital beds, physicians, and specialists per capita
 
-§ Geographic challenges
+ ii. Geographic challenges
 
-- Distance to providers
+1. Distance to providers
 
-o Time
+a. Time
 
-o Transportation
+b. Transportation
 
-- Lower density of emergency medical services
+2. Lower density of emergency medical services
 
-§ Socio-economic and cultural
+ iii. Socio-economic and cultural
 
-- Lower education and health literacy
+1. Lower education and health literacy
 
-- High rates of poor health related behaviors (smoking, drinking, stress, sleep)
+2. High rates of poor health related behaviors (smoking, drinking, stress, sleep)
 
-- High rates of unemployment
+3. High rates of unemployment
 
-- Low incomes
+4. Low incomes
 
-- High rates of Medicaid enrollment
+5. High rates of Medicaid enrollment
 
-- **Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
+**6. ****Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
 
-o Explain what telehealth is
+a. Explain what telehealth is
 
-o Why is telehealth particularly suitable for rural areas?
+b. Why is telehealth particularly suitable for rural areas?
 
-§ Address physician shortage by connecting patients to providers outside the immediate area
+ i. Address physician shortage by connecting patients to providers outside the immediate area
 
-- Access to primary care
+1. Access to primary care
 
-- Access to specialists
+2. Access to specialists
 
-- Timely care
+3. Timely care
 
-§ Reduce transportation barriers
+ ii. Reduce transportation barriers
 
-§ Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
+ iii. Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
 
-§ Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
+ iv. Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
 
-- **Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
+7. **Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
 
-o Digital divide
+a. Digital divide
 
-§ Explore national data map and then zoom in and focus on a specific state as a case study - Pennsylvania
+ i. Explore national data map and then zoom in and focus on a specific state as a case study - Pennsylvania
 
-§ Lower broadband access
+ ii. Lower broadband access
 
-§ Lower access to personal devices needed for telehealth
+ iii. Lower access to personal devices needed for telehealth
 
-§ Low digital health literacy
+ iv. Low digital health literacy
 
-- Low rates of computer literacy
+1. Low rates of computer literacy
 
-- Limited health education/literacy overall
+2. Limited health education/literacy overall
 
-- Difficulties navigating online resources and tools for health purposes
+3. Difficulties navigating online resources and tools for health purposes
 
-o Slow rates of provider adoption
+b. Slow rates of provider adoption
 
-§ Limited knowledge
+ i. Limited knowledge
 
-§ Limited clinic infrastructure
+ ii. Limited clinic infrastructure
 
-§ Limitations on reimbursement and services
+ iii. Limitations on reimbursement and services
 
-- Slow regulation development
+1. Slow regulation development
 
-- **Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
+8. **Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
-o Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
+a. Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
 
-o Expanding rural broadband infrastructure
+b. Expanding rural broadband infrastructure
 
-§ Task force of USDA, FCC, and HHS working to expand infrastructure to support telehealth
+ i. Task force of USDA, FCC, and HHS working to expand infrastructure to support telehealth
 
-§ Rural Digital Opportunity Fund
+ ii. Rural Digital Opportunity Fund
 
-- 20.4 billion over 10 years
+1. 20.4 billion over 10 years
 
-- Partner with service providers to build broadband infrastructure for 5.2 million locations lacking broadband (still millions more who need coverage)
+2. Partner with service providers to build broadband infrastructure for 5.2 million locations lacking broadband (still millions more who need coverage)
 
-§ HOWEVER, the quality of this infrastructure and internet speeds are limited and not forward looking
+ iii. HOWEVER, the quality of this infrastructure and internet speeds are limited and not forward looking
 
-- While these policies have built some base infrastructure, there are still areas that need more infrastructure
+1. While these policies have built some base infrastructure, there are still areas that need more infrastructure
 
-- This infrastructure needs to be high-quality and high-speed in order to be sustainable and not simply a short term fix
+2. This infrastructure needs to be high-quality and high-speed in order to be sustainable and not simply a short term fix
 
-o Affordability of broadband and personal devices
+c. Affordability of broadband and personal devices
 
-§ Emergency Broadband Benefit Program for the duration of COVID-19 pandemic
+ i. Emergency Broadband Benefit Program for the duration of COVID-19 pandemic
 
-- Subsidize costs of broadband up to $50 per month for low-income households
+1. Subsidize costs of broadband up to $50 per month for low-income households
 
-- One time offer for $100 in assistance purchasing computer or tablet
+2. One time offer for $100 in assistance purchasing computer or tablet
 
-- Addresses the personal device disparity and should be expanded beyond COVID as it addresses economic barriers to using digital infrastructure (if the broadband is there, but people can't afford it, the problem is not fixed)
+3. Addresses the personal device disparity and should be expanded beyond COVID as it addresses economic barriers to using digital infrastructure (if the broadband is there, but people can't afford it, the problem is not fixed)
 
-o Improving digital health literacy
+d. Improving digital health literacy
 
-§ Practice is key, so this ties back to ensuring people have access to personal devices
+ i. Practice is key, so this ties back to ensuring people have access to personal devices
 
-§ Educational campaigns and programs
+ ii. Educational campaigns and programs
 
-- Right now, most digital education campaigns are run in rural areas, so make sure to involve rural community members in the development of the programs, so that the program addresses the unique needs of the population
+1. Right now, most digital education campaigns are run in rural areas, so make sure to involve rural community members in the development of the programs, so that the program addresses the unique needs of the population
 
-o What do they need
+a. What do they need
 
-o What are they unsure of or nervous about
+b. What are they unsure of or nervous about
 
-o What barriers have they encountered trying to use
+c. What barriers have they encountered trying to use
 
-§ Ensure new telehealth resources in the community follow guidelines for plainlanguage (see plainlanguage.gov and the cdc communication resources
+ iii. Ensure new telehealth resources in the community follow guidelines for plainlanguage (see plainlanguage.gov and the cdc communication resources
 
-§ Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
+ iv. Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
 
-- **Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
+9. **Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
-o Riding the wave of telehealth legislation in the wake of COVID-19
+a. Riding the wave of telehealth legislation in the wake of COVID-19
 
-§ Many examples of legislation to allow more services to be provided via telehealth and establish reimbursement for telehealth
+ i. Many examples of legislation to allow more services to be provided via telehealth and establish reimbursement for telehealth
 
-- HIPAA flexibility
+1. HIPAA flexibility
 
-- Telehealth waivers through CMS
+2. Telehealth waivers through CMS
 
-o Telehealth across state lines
+a. Telehealth across state lines
 
-o New patients
+b. New patients
 
-o Bill for many telehealth services
+c. Bill for many telehealth services
 
-- Expanded range of telehealth services covered by FQHCs and rural health clinics
+3. Expanded range of telehealth services covered by FQHCs and rural health clinics
 
-- Expand list of telehealth services covered by Medicare
+4. Expand list of telehealth services covered by Medicare
 
-- Allow private insurers to modify benefits mid-year to expand telehealth coverage
+5. Allow private insurers to modify benefits mid-year to expand telehealth coverage
 
-- Allow for initiation of and continuous prescribing of medication assisted treatment for substance use disorders
+6. Allow for initiation of and continuous prescribing of medication assisted treatment for substance use disorders
 
-§ Many of these have not been permanently legislated and are still temporary policies during COVID, so efforts should be made to establish permanent policies for telehealth as these regulations supported the uptake of telehealth across the country
+ ii. Many of these have not been permanently legislated and are still temporary policies during COVID, so efforts should be made to establish permanent policies for telehealth as these regulations supported the uptake of telehealth across the country
 
-o Connecting local providers with resources to improve the uptake of telehealth
+b. Connecting local providers with resources to improve the uptake of telehealth
 
-§ Distance Learning and Telemedicine Grants
+ i. Distance Learning and Telemedicine Grants
 
-- Providing funds for health systems to acquire video conferencing equipment and software
+1. Providing funds for health systems to acquire video conferencing equipment and software
 
-- Funding for more and higher quality broadband infrastructure for health systems
+2. Funding for more and higher quality broadband infrastructure for health systems
 
-- Establishing resources for telecommunication at local community hubs like schools
+3. Establishing resources for telecommunication at local community hubs like schools
 
-§ Establishing workforce training programs
+ ii. Establishing workforce training programs
 
-- **Call to Action: As a public health official or community advocate, you can work to improve telehealth access in your rural communities** *(Next steps for the audience)*
+10. **Call to Action: As a public health official or community advocate, you can work to improve telehealth access in your rural communities** *(Next steps for the audience)*
 
-o Building Digital Readiness for Telehealth in Rural Communities Requires Multi-sector Effort and Long-Term Investment
+a. Building Digital Readiness for Telehealth in Rural Communities Requires Multi-sector Effort and Long-Term Investment
 
-§ Assess the needs of your community
+ i. Assess the needs of your community
 
-- What kind of digital infrastructure does the community have? What kind does it need?
+1. What kind of digital infrastructure does the community have? What kind does it need?
 
-- What level of digital health literacy does the community have?
+2. What level of digital health literacy does the community have?
 
-- Who are the providers in the community? Are they using telehealth? Do they have the resources and knowledge to use telehealth?
+3. Who are the providers in the community? Are they using telehealth? Do they have the resources and knowledge to use telehealth?
 
-§ Know the stakeholders -- who do you have connections with
+ ii. Know the stakeholders -- who do you have connections with
 
-- Federal, state, and local government
+1. Federal, state, and local government
 
-- Local health care providers
+2. Local health care providers
 
-- Information technology companies
+3. Information technology companies
 
-- Churches, libraries, and other community institutions
+4. Churches, libraries, and other community institutions
 
-- Community residents
+5. Community residents
 
-§ Understand the scope of what needs to be done to make telehealth feasible and sustainable in rural communities -- think about which of these areas would benefit the community most and which areas you can feasibly impact
+ iii. Understand the scope of what needs to be done to make telehealth feasible and sustainable in rural communities -- think about which of these areas would benefit the community most and which areas you can feasibly impact
 
-- Clear and well-developed regulations to give structure to telehealth as a service
+1. Clear and well-developed regulations to give structure to telehealth as a service
 
-- Funding for expanding broadband, telehealth infrastructure, and telecommunication devices
+2. Funding for expanding broadband, telehealth infrastructure, and telecommunication devices
 
-- Cooperation with telecommunication providers
+3. Cooperation with telecommunication providers
 
-- Educational support for digital health literacy
+4. Educational support for digital health literacy
 
-- Educational support for providers adopting telehealth technologies
+5. Educational support for providers adopting telehealth technologies
 
-- Research on effective methods for transforming typical care to telehealth (specifically in rural areas to promote useful and accessible adoption of telehealth)
+6. Research on effective methods for transforming typical care to telehealth (specifically in rural areas to promote useful and accessible adoption of telehealth)
 
-- IT workforce to maintain infrastructure
+7. IT workforce to maintain infrastructure
 
-§ Identify the best strategies to address your community's needs given your resources
+ iv. Identify the best strategies to address your community's needs given your resources
 
-- Conduct a formal needs assessment for a more comprehensive understanding of the community's needs and to collect baseline data to help establish goals and measure progress
+1. Conduct a formal needs assessment for a more comprehensive understanding of the community's needs and to collect baseline data to help establish goals and measure progress
 
-- Advocacy -- advocate to policy makers at higher levels of government to support legislation that:
+2. Advocacy -- advocate to policy makers at higher levels of government to support legislation that:
 
-o Provides funding to broadband expansion and other telehealth infrastructure
+a. Provides funding to broadband expansion and other telehealth infrastructure
 
-o Make new COVID-10 related telehealth expansions permanent
+b. Make new COVID-10 related telehealth expansions permanent
 
-o New legislation, policies, and procedures that help standardize and structure telehealth to facilitate service provision and reimbursement
+c. New legislation, policies, and procedures that help standardize and structure telehealth to facilitate service provision and reimbursement
 
-- Apply for grants to help the community access resources that may be cost prohibitive
+3. Apply for grants to help the community access resources that may be cost prohibitive
 
-o Broadband grants
+a. Broadband grants
 
-o Distance Learning and Telemedicine Grants
+b. Distance Learning and Telemedicine Grants
 
-- Partner with community organizations to develop programs that teach health literacy, promote healthy behaviors, and improve computer/ digital skills to improve community health literacy
+4. Partner with community organizations to develop programs that teach health literacy, promote healthy behaviors, and improve computer/ digital skills to improve community health literacy
 
-§ Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
+ v. Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
 
 **Data**
 
