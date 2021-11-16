@@ -1,10 +1,10 @@
-1. **Audience:** Public health officials and community advocates
+**Audience:** Public health officials and community
 
-2. **Project Overview:** Rural areas experience relatively poor health outcomes. Barriers to healthcare access and utilization contribute to these poor outcomes, and telehealth can help overcome these barriers. However, we must first establish the digital infrastructure necessary to support telehealth in rural communities. The strategies presented in this article can help you improve digital infrastructure and the feasibility of telehealth in your rural community.
+**Project Overview:** Rural areas experience relatively poor health outcomes. Barriers to healthcare access and utilization contribute to these poor outcomes, and telehealth can help overcome these barriers. However, we must first establish the digital infrastructure necessary to support telehealth in rural communities. The strategies presented in this article can help you improve digital infrastructure and the feasibility of telehealth in your rural community.
 
-**3. ****Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America**
+**Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America**
 
-**4. ****Introduction** *(Pull in the audience, establish the problem, and inform the audience that you will be sharing solutions)*
+**1. ****Introduction** *(Pull in the audience, establish the problem, and inform the audience that you will be sharing solutions)*
 
 a. Brief overview introducing the concept of health disparities in rural America
 
@@ -16,7 +16,7 @@ d. Caution that existing digital infrastructure and digital literacy must be imp
 
 e. Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
 
-5. **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
+2. **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
 
 a. Disparities in health outcomes
 
@@ -60,7 +60,7 @@ b. Transportation
 
 5. High rates of Medicaid enrollment
 
-**6. ****Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
+**3. ****Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
 
 a. Explain what telehealth is
 
@@ -80,7 +80,7 @@ b. Why is telehealth particularly suitable for rural areas?
 
  iv. Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
 
-7. **Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
+4. **Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
 
 a. Digital divide
 
@@ -108,7 +108,7 @@ b. Slow rates of provider adoption
 
 1. Slow regulation development
 
-8. **Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
+5. **Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
 a. Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
 
@@ -156,7 +156,7 @@ c. What barriers have they encountered trying to use
 
  iv. Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
 
-9. **Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
+6. **Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
 a. Riding the wave of telehealth legislation in the wake of COVID-19
 
@@ -194,7 +194,7 @@ b. Connecting local providers with resources to improve the uptake of telehealth
 
  ii. Establishing workforce training programs
 
-10. **Call to Action: As a public health official or community advocate, you can work to improve telehealth access in your rural communities** *(Next steps for the audience)*
+7. **Call to Action: As a public health official or community advocate, you can work to improve telehealth access in your rural communities** *(Next steps for the audience)*
 
 a. Building Digital Readiness for Telehealth in Rural Communities Requires Multi-sector Effort and Long-Term Investment
 
