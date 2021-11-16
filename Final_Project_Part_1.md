@@ -54,7 +54,7 @@
     - Address physician shortage by connecting patients to providers outside the immediate area
 	    - Access to primary care
 	    - Access to specialists
-	- Timely care
+    - Timely care
     - Reduce transportation barriers
     - Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
     - Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
