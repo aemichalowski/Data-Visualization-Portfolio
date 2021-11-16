@@ -60,29 +60,19 @@
     - Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
 
 4. **Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
-- Digital divide
-    - Explore national data map and then zoom in and focus on a specific state as a case study - Pennsylvania
-        - Lower broadband access
-
-  		- Lower access to personal devices needed for telehealth
-
-  		- Low digital health literacy
-
-  	        - Low rates of computer literacy
-
-  			- Limited health education/literacy overall
-
-  			- Difficulties navigating online resources and tools for health purposes
-
-  	- Slow rates of provider adoption
-
-  		- Limited knowledge
-
-  		- Limited clinic infrastructure
-
-  		- Limitations on reimbursement and services
-
-  			- Slow regulation development
+* Digital divide
+    * Explore national data map and then zoom in and focus on a specific state as a case study - Pennsylvania
+        * Lower broadband access
+  		* Lower access to personal devices needed for telehealth
+  		* Low digital health literacy
+  	        * Low rates of computer literacy
+  			* Limited health education/literacy overall
+  			* Difficulties navigating online resources and tools for health purposes
+  	* Slow rates of provider adoption
+  		* Limited knowledge
+  		* Limited clinic infrastructure
+  		* Limitations on reimbursement and services
+  			* Slow regulation development
 
 5. **Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
