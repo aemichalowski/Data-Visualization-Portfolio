@@ -32,22 +32,22 @@
 
 	- Disparities in health outcomes
 
-   		- Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+   	- Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 
   	- Barriers to healthcare access and utilization, which contribute to poor health outcomes
 
-  		- Healthcare infrastructure
+  	 - Healthcare infrastructure
 
-  			- Provider shortages
-				- "Less than 8% of physicians practice in rural areas"
+  	  - Provider shortages
+	   - "Less than 8% of physicians practice in rural areas"
 
-				- Less specialists
+	   - Less specialists
 
-  			- Financial problems among hospitals and other healthcare providers
+  	   - Financial problems among hospitals and other healthcare providers
 
- 			- More than 130 closures of rural hospitals since 2010
+ 	    - More than 130 closures of rural hospitals since 2010
 
-  			- Lower hospital beds, physicians, and specialists per capita
+  	    - Lower hospital beds, physicians, and specialists per capita
 
   	- Geographic challenges
 
