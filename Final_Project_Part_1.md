@@ -86,21 +86,19 @@
 
 5. **Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
-  	- Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
+- Note: Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
+- Expanding rural broadband infrastructure
+    - Task force of USDA, FCC, and HHS working to expand infrastructure to support telehealth
 
-  	- Expanding rural broadband infrastructure
+  	- Rural Digital Opportunity Fund
 
-  		- Task force of USDA, FCC, and HHS working to expand infrastructure to support telehealth
+  	    - 20.4 billion over 10 years
 
-  		- Rural Digital Opportunity Fund
+  		- Partner with service providers to build broadband infrastructure for 5.2 million locations lacking broadband (still millions more who need coverage)
 
-  			- 20.4 billion over 10 years
+  		- HOWEVER, the quality of this infrastructure and internet speeds are limited and not forward looking
 
-  			- Partner with service providers to build broadband infrastructure for 5.2 million locations lacking broadband (still millions more who need coverage)
-
-  				- HOWEVER, the quality of this infrastructure and internet speeds are limited and not forward looking
-
-  				- While these policies have built some base infrastructure, there are still areas that need more infrastructure
+  		- While these policies have built some base infrastructure, there are still areas that need more infrastructure
 
   		- This infrastructure needs to be high-quality and high-speed in order to be sustainable and not simply a short term fix
 
