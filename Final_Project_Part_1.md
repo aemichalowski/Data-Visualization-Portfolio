@@ -28,8 +28,7 @@
      - Financial problems among hospitals and other healthcare providers
            - More than 130 closures of rural hospitals since 2010
            - Lower hospital beds, physicians, and specialists per capita
-
-  	- Geographic challenges
+   - Geographic challenges
 
   		- Distance to providers
 
