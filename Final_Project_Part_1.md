@@ -12,11 +12,19 @@
 
 	- Brief overview introducing the concept of health disparities in rural America
 
+
+
   	- Introduce access to care and care utilization as mechanisms as contributors to poor health outcomes
+
+
 
   	- Suggest telehealth technologies as potential tools to bridge gaps in healthcare for rural citizens
 
+
+
   	- Caution that existing digital infrastructure and digital literacy must be improved for rural populations to benefit from these advances
+
+
 
   	- Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
 
