@@ -26,8 +26,8 @@
            - "Less than 8% of physicians practice in rural areas"
            - Less specialists
      - Financial problems among hospitals and other healthcare providers
-         - More than 130 closures of rural hospitals since 2010
-         - Lower hospital beds, physicians, and specialists per capita
+           - More than 130 closures of rural hospitals since 2010
+           - Lower hospital beds, physicians, and specialists per capita
    - Geographic challenges
   		- Distance to providers
   			- Time
