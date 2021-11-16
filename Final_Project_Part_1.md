@@ -12,19 +12,19 @@
 
 	a. Brief overview introducing the concept of health disparities in rural America
 
-  b. Introduce access to care and care utilization as mechanisms as contributors to poor health outcomes
+  	b. Introduce access to care and care utilization as mechanisms as contributors to poor health outcomes
 
-  c. Suggest telehealth technologies as potential tools to bridge gaps in healthcare for rural citizens
+  	c. Suggest telehealth technologies as potential tools to bridge gaps in healthcare for rural citizens
 
-  d. Caution that existing digital infrastructure and digital literacy must be improved for rural populations to benefit from these advances
+  	d. Caution that existing digital infrastructure and digital literacy must be improved for rural populations to benefit from these advances
 
-  e. Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
+  	e. Conclude with the notion that this story will help public health professionals and community advocates build an understanding of key policies/programs we should pursue in order to support the adoption of telehealth tools in rural America and address the underlying health disparities
 
 2. **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
 
-  a. Disparities in health outcomes
+  	a. Disparities in health outcomes
 
-   i. Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+   		i. Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 
   b. Barriers to healthcare access and utilization, which contribute to poor health outcomes
 
