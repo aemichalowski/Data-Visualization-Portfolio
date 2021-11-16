@@ -68,7 +68,7 @@
 
   		- Low digital health literacy
 
-  			- Low rates of computer literacy
+  	        - Low rates of computer literacy
 
   			- Limited health education/literacy overall
 
