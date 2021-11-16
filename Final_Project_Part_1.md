@@ -40,16 +40,15 @@
 
 3.**Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
 
-- Explain what telehealth is
-
-- Why is telehealth particularly suitable for rural areas?
-    - Address physician shortage by connecting patients to providers outside the immediate area
-	    - Access to primary care
-	    - Access to specialists
-    - Timely care
-    - Reduce transportation barriers
-    - Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
-    - Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
+* Explain what telehealth is
+* Why is telehealth particularly suitable for rural areas?
+    * Address physician shortage by connecting patients to providers outside the immediate area
+	    * Access to primary care
+	    * Access to specialists
+    * Timely care
+    * Reduce transportation barriers
+    * Support continuity of care by providing easier, less time consuming access to providers to facilitate consistent use
+    * Economic benefits for rural areas from reduced wage losses, reductions in use of higher cost emergency services
 
 4.**Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
 * Digital divide
@@ -68,49 +67,29 @@
 
 5.**Addressing the Digital Divide** *(Give examples of policies and programs that can help address the digital divide barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
-- Note: Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
-- Expanding rural broadband infrastructure
-    - Task force of USDA, FCC, and HHS working to expand infrastructure to support telehealth
-
-  	- Rural Digital Opportunity Fund
-
-  	    - 20.4 billion over 10 years
-
-  		- Partner with service providers to build broadband infrastructure for 5.2 million locations lacking broadband (still millions more who need coverage)
-
-  		- HOWEVER, the quality of this infrastructure and internet speeds are limited and not forward looking
-
-  		- While these policies have built some base infrastructure, there are still areas that need more infrastructure
-
-  		- This infrastructure needs to be high-quality and high-speed in order to be sustainable and not simply a short term fix
-
-  	- Affordability of broadband and personal devices
-
-  		- Emergency Broadband Benefit Program for the duration of COVID-19 pandemic
-
-  			- Subsidize costs of broadband up to $50 per month for low-income households
-
-  			- One time offer for $100 in assistance purchasing computer or tablet
-
-  			- Addresses the personal device disparity and should be expanded beyond COVID as it addresses economic barriers to using digital infrastructure (if the broadband is there, but people can't afford it, the problem is not fixed)
-
-  	- Improving digital health literacy
-
-  		- Practice is key, so this ties back to ensuring people have access to personal devices
-
-  		- Educational campaigns and programs
-
-  			- Right now, most digital education campaigns are run in rural areas, so make sure to involve rural community members in the development of the programs, so that the program addresses the unique needs of the population
-
-  				- What do they need
-
-  				- What are they unsure of or nervous about
-
-  				- What barriers have they encountered trying to use
-
-   		- Ensure new telehealth resources in the community follow guidelines for plainlanguage (see plainlanguage.gov and the cdc communication resources
-
-  		- Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
+* Note: Area where there is ongoing progress, and the investment has shown demonstrable improvements in things like broadband infrastructure and personal device ownership, though disparities still exist (show that these policies and programs can make a difference and should continue
+* Expanding rural broadband infrastructure
+    * Task force of USDA, FCC, and HHS working to expand infrastructure to support telehealth
+  	* Rural Digital Opportunity Fund
+  	    * 20.4 billion over 10 years
+  		* Partner with service providers to build broadband infrastructure for 5.2 million locations lacking broadband (still millions more who need coverage)
+  		* HOWEVER, the quality of this infrastructure and internet speeds are limited and not forward looking
+  		* While these policies have built some base infrastructure, there are still areas that need more infrastructure
+  		* This infrastructure needs to be high-quality and high-speed in order to be sustainable and not simply a short term fix
+  	* Affordability of broadband and personal devices
+  		* Emergency Broadband Benefit Program for the duration of COVID-19 pandemic
+  			* Subsidize costs of broadband up to $50 per month for low-income households
+  			* One time offer for $100 in assistance purchasing computer or tablet
+  			* Addresses the personal device disparity and should be expanded beyond COVID as it addresses economic barriers to using digital infrastructure (if the broadband is there, but people can't afford it, the problem is not fixed)
+  	* Improving digital health literacy
+  		* Practice is key, so this ties back to ensuring people have access to personal devices
+  		* Educational campaigns and programs
+  			* Right now, most digital education campaigns are run in rural areas, so make sure to involve rural community members in the development of the programs, so that the program addresses the unique needs of the population
+  				* What do they need
+  				* What are they unsure of or nervous about
+  				* What barriers have they encountered trying to use
+   		* Ensure new telehealth resources in the community follow guidelines for plainlanguage (see plainlanguage.gov and the cdc communication resources
+  		* Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
 
 6.**Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
