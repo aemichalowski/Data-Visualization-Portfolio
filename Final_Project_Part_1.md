@@ -261,9 +261,9 @@
 
 Sources:
 	
-	- Rural Health Information Hub. Rural Health Disparities. Available from: <https://www.ruralhealthinfo.org/topics/rural-health-disparities>.
+	- Rural Health Information Hub. Rural Health Disparities. Available from: https://www.ruralhealthinfo.org/topics/rural-health-disparities
 
-	- Rural Health Information Hub. Specific Rural Populations that May Benefit from Telehealth. Available from: <https://www.ruralhealthinfo.org/toolkits/telehealth/1/benefits-for-specific-populations>.
+	- Rural Health Information Hub. Specific Rural Populations that May Benefit from Telehealth. Available from: https://www.ruralhealthinfo.org/toolkits/telehealth/1/benefits-for-specific-populations.
 
 	- Ellison, A. State-by-state breakdown of 130 rural hospital closures. 2020. Available from: <https://www.beckershospitalreview.com/finance/state-by-state-breakdown-of-130-rural-hospital-closures.html>.
 
