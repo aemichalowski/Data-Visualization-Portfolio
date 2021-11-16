@@ -114,65 +114,36 @@
 
 7.**Call to Action: As a public health official or community advocate, you can work to improve telehealth access in your rural communities** *(Next steps for the audience)*
 
-  	- Building Digital Readiness for Telehealth in Rural Communities Requires Multi-sector Effort and Long-Term Investment
-
-  		- Assess the needs of your community
-
-  			- What kind of digital infrastructure does the community have? What kind does it need?
-
-  			- What level of digital health literacy does the community have?
-
-  			- Who are the providers in the community? Are they using telehealth? Do they have the resources and knowledge to use telehealth?
-
-  		- Know the stakeholders -- who do you have connections with
-
-  			- Federal, state, and local government
-
-  			- Local health care providers
-
-  			- Information technology companies
-
-  			- Churches, libraries, and other community institutions
-
-  			- Community residents
-
-  		- Understand the scope of what needs to be done to make telehealth feasible and sustainable in rural communities -- think about which of these areas would benefit the community most and which areas you can feasibly impact
-
-  			- Clear and well-developed regulations to give structure to telehealth as a service
-
-			- Funding for expanding broadband, telehealth infrastructure, and telecommunication devices
-
-			- Cooperation with telecommunication providers
-
-			- Educational support for digital health literacy
-
-			- Educational support for providers adopting telehealth technologies
-
-			- Research on effective methods for transforming typical care to telehealth (specifically in rural areas to promote useful and accessible adoption of telehealth)
-
-			- IT workforce to maintain infrastructure
-
-  		- Identify the best strategies to address your community's needs given your resources
-
-  			- Conduct a formal needs assessment for a more comprehensive understanding of the community's needs and to collect baseline data to help establish goals and measure progress
-
-  			- Advocacy -- advocate to policy makers at higher levels of government to support legislation that:
-
-  				- Provides funding to broadband expansion and other telehealth infrastructure
-
-  				- Make new COVID-10 related telehealth expansions permanent
-
-  				- New legislation, policies, and procedures that help standardize and structure telehealth to facilitate service provision and reimbursement
-
-  			- Apply for grants to help the community access resources that may be cost prohibitive
-
-  				- Broadband grants
-
-  				- Distance Learning and Telemedicine Grants
-
-  			- Partner with community organizations to develop programs that teach health literacy, promote healthy behaviors, and improve computer/ digital skills to improve community health literacy
-
-  		- Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
+* Building Digital Readiness for Telehealth in Rural Communities Requires Multi-sector Effort and Long-Term Investment
+    * Assess the needs of your community
+        * What kind of digital infrastructure does the community have? What kind does it need?
+        * What level of digital health literacy does the community have?
+        * Who are the providers in the community? Are they using telehealth? Do they have the resources and knowledge to use telehealth?
+    * Know the stakeholders -- who do you have connections with
+        * Federal, state, and local government
+        * Local health care providers
+        * Information technology companies
+        * Churches, libraries, and other community institutions
+        * Community residents
+    * Understand the scope of what needs to be done to make telehealth feasible and sustainable in rural communities -- think about which of these areas would benefit the community most and which areas you can feasibly impact
+        * Clear and well-developed regulations to give structure to telehealth as a service
+        * Funding for expanding broadband, telehealth infrastructure, and telecommunication devices
+        * Cooperation with telecommunication providers
+        * Educational support for digital health literacy
+        * Educational support for providers adopting telehealth technologies
+        * Research on effective methods for transforming typical care to telehealth (specifically in rural areas to promote useful and accessible adoption of telehealth)
+        * IT workforce to maintain infrastructure
+    * Identify the best strategies to address your community's needs given your resources
+        * Conduct a formal needs assessment for a more comprehensive understanding of the community's needs and to collect baseline data to help establish goals and measure progress
+        * Advocacy -- advocate to policy makers at higher levels of government to support legislation that:
+            * Provides funding to broadband expansion and other telehealth infrastructure
+            * Make new COVID-10 related telehealth expansions permanent
+            * New legislation, policies, and procedures that help standardize and structure telehealth to facilitate service provision and reimbursement
+        * Apply for grants to help the community access resources that may be cost prohibitive
+            * Broadband grants
+            * Distance Learning and Telemedicine Grants
+        * Partner with community organizations to develop programs that teach health literacy, promote healthy behaviors, and improve computer/ digital skills to improve community health literacy
+    * Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
 
 Sources:
 	
