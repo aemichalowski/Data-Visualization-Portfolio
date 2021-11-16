@@ -29,15 +29,10 @@
          - More than 130 closures of rural hospitals since 2010
          - Lower hospital beds, physicians, and specialists per capita
    - Geographic challenges
-
   		- Distance to providers
-
   			- Time
-
   			- Transportation
-
   		- Lower density of emergency medical services
-
   	- Socio-economic and cultural
 
 		- Lower education and health literacy
