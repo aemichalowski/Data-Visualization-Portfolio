@@ -24,7 +24,7 @@
    - Healthcare infrastructure
        - Provider shortages
            - "Less than 8% of physicians practice in rural areas"
-	   - Less specialists
+	    - Less specialists
 
    - Financial problems among hospitals and other healthcare providers
 
