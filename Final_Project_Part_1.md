@@ -1,3 +1,7 @@
+# Final Project Part 1
+
+### Outline
+
 **Audience:** Public health officials and community
 
 **Project Overview:** Rural areas experience relatively poor health outcomes. Barriers to healthcare access and utilization contribute to these poor outcomes, and telehealth can help overcome these barriers. However, we must first establish the digital infrastructure necessary to support telehealth in rural communities. The strategies presented in this article can help you improve digital infrastructure and the feasibility of telehealth in your rural community.
@@ -255,8 +259,22 @@
   4. Partner with community organizations to develop programs that teach health literacy, promote healthy behaviors, and improve computer/ digital skills to improve community health literacy
 
   v. Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
+  
+### Visualizations
+![Untitled_Artwork (5)](https://user-images.githubusercontent.com/93174933/141922457-e5568fc8-35a3-4e34-b0de-52a5d8fc739f.png)
 
-**Data**
+The first visualization shows rates of diabetes in rural and urban counties. This will help show how high rates of diabetes are in rural counties in particular as they will show the highest rates. I will use this visualization to help support my discussions about health disparities in rural areas by showing that the majority or rural counties have high rates of diabetes. I plan to also include several other health conditions of relevance such as substance use disorders, and unintentional injuries to showcase health conditions that are particularly prevalent in rural populations. As of now, I am consistently using orange to represent rural populations because it is an earthy color and purple to represent urban counties because it is a modern color. I carry this theme throughout my visualizations for consistency. These charts will serve as a visual emphasis for textual data that discusses the high average rates of these health conditions for rural areas compared to urban and suburban areas.
+
+![Untitled_Artwork (6)](https://user-images.githubusercontent.com/93174933/141922470-61738f7d-c5f1-481d-802d-135254c48d73.png)
+
+The second visualization shows broadband adoption in rural counties around the country. This will be a series of three maps which were hard to draw with only sketches. The first map as you see here will show broadband adoption in rural counties utilizing county averages, and while there will be many counties with somewhat low rates, there will not be that much variance. The next two maps (not pictured here due to limitations of sketching by hand) will display the same data at the census tract and census block level. Each increasingly local level of geography will reveal how much more broadband varies by community rather than just by county. In a way, the county level only maps paint a deceptively bright picture. This will help explain why this is largely geared toward public health officials and advocates looking to make a difference in a particular community because though funding is often federal or state level, the unique problems are very local.
+
+![Untitled_Artwork (7)](https://user-images.githubusercontent.com/93174933/141922484-fdaac676-b158-4b61-af03-33c429f1911f.png)
+
+The third visualization shows a dot plot comparing rural and urban providers and what they view as barriers to telehealth in their communities. Rural providers tend to worry more about clinic infrastructure, long-term affordability of telehealth infrastructure, patient engagement, and whether their patients will be able to access telehealth. This not only provides support to the problem of slop provider uptake, but also connects the provider uptake back to the infrastructure and literacy issues that will be discussed in the sections before. I chose to use a dot plot with percentages rather than a bar plot because the dot plot will emphasize the difference between the two dots more spatially as it lies along the axis and can be more easily compared to the difference between rural and urban among different issues. This allows the viewer to see more clearly which issues the rural and urban providers differ in opion on more so than others without the total magnitude of the percentages being as distracting as it would in a bar chart. I also maintained the use of the purple orange color scheme throughout this visualization to maintain the same color themes, so viewers are more readily able to interpret the visualization and understand which responses are associated with rural versus urban providers.
+
+
+### Data
 
 [Rural Health Disparities Overview - Rural Health Information Hub](https://www.ruralhealthinfo.org/topics/rural-health-disparities)
 
@@ -280,7 +298,7 @@ Data from the National Telecommunications and Information Administration provide
 
 This website contains publicly accessible data from a survey on the trend of increased telehealth uptake during COVID-19 split by rural and urban groups. Much of this data focuses on the provider's view of telehealth, and I plan to use this to support my section on provider related barriers to telehealth uptake. Specifically, I will use this to build a visualization that communicates the barriers rural providers (versus urban providers) cite to telehealth uptake and tie these in to my recommendations.
 
-**Method and Medium**
+### Method and Medium
 
 I will utilize shorthand to develop my final project. Shorthand allows for visualizations to be smoothly integrated with text, such that the visualizations are immersive. I plan to start by conducing background research and improving my outline for the written content. Next, I will continue exploring my data and create first drafts of my visualizations. I will integrate the visuals into my outline so I can assess how well they support one another.
 
