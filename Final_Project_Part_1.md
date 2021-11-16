@@ -30,7 +30,7 @@
   			* Distance to providers
   			    * Time
   		    	* Transportation
-  		* Lower density of emergency medical services
+  		    * Lower density of emergency medical services
   	* Socio-economic and cultural
 		* Lower education and health literacy
   		* High rates of poor health related behaviors (smoking, drinking, stress, sleep)
@@ -53,12 +53,12 @@
 4.**Barriers to telehealth in rural areas** *(Briefly introduce challenges to using telehealth as a solution, and clarify that these are the areas where the audience can make an impact in order to support telehealth adoption)*
 * Digital divide
     * Explore national data map and then zoom in and focus on a specific state as a case study - Pennsylvania
-        * Lower broadband access
-  		* Lower access to personal devices needed for telehealth
-  		* Low digital health literacy
-  	        * Low rates of computer literacy
-  			* Limited health education/literacy overall
-  			* Difficulties navigating online resources and tools for health purposes
+    * Lower broadband access
+    * Lower access to personal devices needed for telehealth
+    * Low digital health literacy
+        * Low rates of computer literacy
+        * Limited health education/literacy overall
+        * Difficulties navigating online resources and tools for health purposes
   	* Slow rates of provider adoption
   		* Limited knowledge
   		* Limited clinic infrastructure
@@ -88,8 +88,8 @@
   				* What do they need
   				* What are they unsure of or nervous about
   				* What barriers have they encountered trying to use
-   		* Ensure new telehealth resources in the community follow guidelines for plainlanguage (see plainlanguage.gov and the cdc communication resources
-  		* Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
+            * Ensure new telehealth resources in the community follow guidelines for plainlanguage (see plainlanguage.gov and the cdc communication resources
+            * Partner with local organizations to make digital health literacy accessible and grounded in the community (examples to include libraries and churches)
 
 6.**Increasing Rates of Provider Adoption of Telehealth Services in Rural Communities** *(Give examples of policies and programs that can help address the provider related barriers to telehealth in rural areas caused by the digital divide and point out what more needs to be done in each of these policy areas)*
 
