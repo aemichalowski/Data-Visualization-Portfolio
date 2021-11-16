@@ -18,9 +18,9 @@ o Conclude with the notion that this story will help public health professionals
 
 - **Health disparities** *(Break down into the outcomes (i.e. motivation for taking action) and contributors (problems that need to be resolved))*
 
-o Disparities in health outcomes
+  o Disparities in health outcomes
 
-§ Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
+    § Higher mortality, lower life expectancy, higher heart disease, unintentional injury, stroke, respiratory disease
 
 o Barriers to healthcare access and utilization, which contribute to poor health outcomes
 
