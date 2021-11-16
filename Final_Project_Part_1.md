@@ -48,17 +48,13 @@
 
 3. **Telehealth as a solution to rural healthcare access** *(Show audience why they should consider telehealth as a tool for rural communities)*
 
-  	- Explain what telehealth is
+- Explain what telehealth is
 
-  	- Why is telehealth particularly suitable for rural areas?
-
-  		- Address physician shortage by connecting patients to providers outside the immediate area
-
-  			- Access to primary care
-
-  			- Access to specialists
-
-  			- Timely care
+- Why is telehealth particularly suitable for rural areas?
+	- Address physician shortage by connecting patients to providers outside the immediate area
+	- Access to primary care
+	- Access to specialists
+	- Timely care
 
   		- Reduce transportation barriers
 
