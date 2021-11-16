@@ -260,6 +260,7 @@
   		- Rural communities have unique needs, and the resource intensive nature of improving telehealth access in rural communities means every problem can't be solved at once. Find the best place to get started for your community, and get started.
 
 Sources:
+	
 	- Rural Health Information Hub. Rural Health Disparities. Available from: <https://www.ruralhealthinfo.org/topics/rural-health-disparities>.
 
 	- Rural Health Information Hub. Specific Rural Populations that May Benefit from Telehealth. Available from: <https://www.ruralhealthinfo.org/toolkits/telehealth/1/benefits-for-specific-populations>.
