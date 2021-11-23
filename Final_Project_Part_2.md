@@ -122,3 +122,250 @@ For my wireframe, I included high fidelity versions of the major data visualizat
 
 ### User Interviews
 
+|
+
+**Questions**
+
+ |
+
+**User #1**
+
+**Gender:** Male
+
+**Age:** 23
+
+**Hometown Geography:** Suburban near rural
+
+**Job:** PhD student
+
+**Background\Interests:** Bioengineering, mobility, mathematics, music
+
+ |
+
+**User #2**
+
+**Gender:** Female
+
+**Age:** 23
+
+**Hometown Geography:** Suburban near rural
+
+**Job:** Healthcare customer service
+
+**Background\Interests:** Art, music, psychology
+
+ |
+
+**User #3**
+
+**Gender:**
+
+**Age:**
+
+**Hometown Geography:**
+
+**Job:**
+
+**Background:**
+
+ |
+|
+
+**General Questions**
+
+ |
+|
+
+**How would you summarize this story in 1-2 sentences?**
+
+ |  |  |  |
+|
+
+**Is there anything you did not understand?**
+
+ |  |  |  |
+|
+
+**Is there anything in particular that you really liked?**
+
+ |  |  |  |
+|
+
+**Health Disparities Section**
+
+ |
+|
+
+**Why do you think the story includes information on health disparities?**
+
+ |  |  |  |
+|
+
+**What does this section make you think about?**
+
+ |  |  |  |
+|
+
+**What do you think of the poor health outcomes visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**What do you think of the provider shortages visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**What do you think of the health risk factors visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**Would you change anything about this section?**
+
+ |  |  |  |
+|
+
+**Telehealth as a Solution to Rural Healthcare Access**
+
+ |
+|
+
+**Why do you think the story includes a section on telehealth as a solution to rural healthcare access?**
+
+ |  |  |  |
+|
+
+**What does the section make you think about?**
+
+ |  |  |  |
+|
+
+**Would you change anything about this section?**
+
+ |  |  |  |
+|
+
+**Barriers to Telehealth in Rural Areas**
+
+ |
+|
+
+**Why do you think the story includes a section on barriers to telehealth?**
+
+ |  |  |  |
+|
+
+**What does the section make you think about?**
+
+ |  |  |  |
+|
+
+**What do you think of the traditional metrics broadband visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**What do you think of the proposed metrics broadband visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**What do you think of the slow adoption by providers visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**What do you think of the provider concerns visualization? How well does it fit in the section? Would you change anything?**
+
+ |  |  |  |
+|
+
+**Would you change anything about this section?**
+
+ |  |  |  |
+|
+
+**Addressing the Digital Divide**
+
+ |
+|
+
+**Why do you think the story includes a section on telehealth as a solution to rural healthcare access?**
+
+ |  |  |  |
+|
+
+**What does the section make you think about?**
+
+ |  |  |  |
+|
+
+**Would you change anything about this section?**
+
+ |  |  |  |
+|
+
+**Increasing Provider Adoption**
+
+ |
+|
+
+**Why do you think the story includes a section on telehealth as a solution to rural healthcare access?**
+
+ |  |  |  |
+|
+
+**What does the section make you think about?**
+
+ |  |  |  |
+|
+
+**Would you change anything about this section?**
+
+ |  |  |  |
+|
+
+**Call to Action**
+
+ |
+|
+
+**Did the call to action seem relevant appropriate for the audience?**
+
+ |  |  |  |
+|
+
+**Did the call to action make sense in the context of the rest of the story? If so, how well did the story build up to the call of action?**
+
+ |  |  |  |
+|
+
+**Would you change anything about this section?**
+
+ |  |  |  |
+|
+
+**Wrap-Up**
+
+ |
+|
+
+**Overall, how well did the visualizations fit in with the story? Did they make the story more impactful?**
+
+ |  |  |  |
+|
+
+**Are there any other data you would recommend presenting or any visualizations you would add?**
+
+ |  |  |  |
+|
+
+**Is there anything else you would recommend changing?**
+
+ |  |  |  |
+|
+
+**Any last comments?**
+
+ |  |  |  |
