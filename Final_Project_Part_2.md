@@ -112,3 +112,10 @@ For my wireframe, I included high fidelity versions of the major data visualizat
 - Prioritize the needs of your community in regards to importance and level or resources required
 - Assess the feasibility of each idea
 - Choose the best strategy to start addressing your community's needs and get started 
+
+## User Research
+
+### Research Methods
+
+### User Interviews
+
