@@ -66,7 +66,7 @@
 ![image](https://user-images.githubusercontent.com/93174933/143130366-40dd0ba2-a89a-4b50-b52f-ed8df8482389.png)
 
 - Provider concerns about maintaining telehealth services over time
-![image](https://user-images.githubusercontent.com/93174933/143130474-a578b52e-7936-4016-ada9-3bbfed99f09d.png)
+![image](https://user-images.githubusercontent.com/93174933/143133045-b66bd989-ef28-405a-80dc-df19c36219f4.png)
 
 ### V. Addressing the Digital Divide 
 
