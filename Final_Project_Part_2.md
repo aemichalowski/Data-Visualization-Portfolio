@@ -3,6 +3,7 @@
 
 ## Storyboard
 
+I created this storyboard to clarify how I anticipate the intended audience interacting with each of the key components of the story. By understanding these goals, I was able to better focus on the points I wanted to emphasize in my story as I built my wireframe. Additionally, this helped me get an idea of what I should look for in my user research. If these points aren't being made clear to the reviewers, I may need to revisit my story content and structure.
 
 ![Slide3](https://user-images.githubusercontent.com/93174933/143091512-3cb9abaa-b2f7-4005-8875-81e625823d3f.PNG)
 ![Slide4](https://user-images.githubusercontent.com/93174933/143091526-0698dffe-bc11-4d96-936d-ebff72095d39.PNG)
