@@ -10,7 +10,9 @@ I created this storyboard to clarify how I anticipate the intended audience inte
 ![Slide5](https://user-images.githubusercontent.com/93174933/143091531-6089137e-0b3f-40bf-ae80-6cde152ca163.PNG)
 
 
-## Initial Wireframe
+## Wireframe
+
+For my wireframe, I included high fidelity versions of the major data visualizations I intend to include in my final project. To connect these data visualizations to the larger story, I included brief headers for each of the major parts of the story, questions the audience may have about that topic, and a combination of the data visualizations and brief text that is intended to answer those questions. I kept the text elements brief to focus on the overarching narrative and the role the visualizations play in that story, so that my user research could help me understand how well the visualizations are able to support my main points in the absense of detailed text.
 
 ### Title: Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America
 
