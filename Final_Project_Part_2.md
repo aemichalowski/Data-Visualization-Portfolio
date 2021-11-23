@@ -7,7 +7,8 @@ I created this storyboard to clarify how I anticipate the intended audience inte
 
 ![Slide3](https://user-images.githubusercontent.com/93174933/143091512-3cb9abaa-b2f7-4005-8875-81e625823d3f.PNG)
 ![Slide4](https://user-images.githubusercontent.com/93174933/143091526-0698dffe-bc11-4d96-936d-ebff72095d39.PNG)
-![image](https://user-images.githubusercontent.com/93174933/143138107-0d97a075-3b55-40a6-af5e-a024918c0d1f.png)
+![Slide5](https://user-images.githubusercontent.com/93174933/143138171-0fcf98c3-5c84-4038-9ccf-4e0c67a93660.PNG)
+
 
 
 
@@ -38,7 +39,8 @@ For my wireframe, I included high fidelity versions of the major data visualizat
 - High levels of risk factors for poor health
    - Low education, low health literacy, high unemployment, older age, low income, poor health behaviors
 
-![image](https://user-images.githubusercontent.com/93174933/143093171-81687eb4-16bd-4268-981d-566ad309c984.png)
+![image](https://user-images.githubusercontent.com/93174933/143138187-0aad80f9-6866-4cdc-827d-b5d67841b0ed.png)
+
 
 ### III. Telehealth as a Solution to Rural Healthcare Access
 
