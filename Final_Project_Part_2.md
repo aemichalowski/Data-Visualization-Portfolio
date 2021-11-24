@@ -201,3 +201,61 @@ Overall, the feedback from each user aligned with the feedback from other partic
 ### Implementing Constructive Criticism
 
 My user research interviews helped me identify unclear, confusing, and awkward aspects of my proposed story structure. Reflecting on these criticisms, I planned a series of changes that will help me improve the flow and impact for the final version of my story.
+
+#### Split and restructure the poor health outcomes visualization
+
+**Problem:** All three users commented on problems with the poor health outcomes visualization, which consisted of four bar plots, each of which demonstrated high levels of poor health outcomes among rural residents, in a chart grid. The users identified two major problems with the visualization. First, the top two charts are to a different scale than the bottom two charts, which makes the visualization confusing. Second, several of the charts seem to describe different aspects of health outcomes (diseases, vs injury rates) which might me more clear if they were separate.
+
+**Solution:** I intend to find additional data on a few other health conditions in a format similar to diabetes. I will then use this to make a chart grid where the data is at the same scale and about the same topics, so I can show higher rates of common chronic diseases among rural residents. I will then separate each of the other charts into their own graphic. Each of the other charts addresses a concept that is important on its own. Injury deaths are a notorious problem specific to rural communities that corresponds with the lack of specialists and distance to emergency services. Preventable hospital stays can provide evidence for the economic burden of poor health outcomes. The percent in poor or fair health provides a good introductory statistic as it represents a higher-level view of health.
+
+#### Reorder the number of providers visualization and the health risk factors visualization
+
+**Problem:** Two users mentioned these visualizations could be more impactful if the order were switched because the current order slightly disrupts the flow of the story.
+
+**Solution:** I will switch the order of the two visualizations. Currently, the story discusses health outcomes, then health infrastructure and provider shortages, followed by health risk factors. Health outcomes would flow well into health risk factors as the reader could connect the risk factors to health outcomes that may be related. Additionally, the next section discusses how telehealth would be a good solution for rural communities because it can help connect rural residents to providers outside the immediate area. By moving the provider shortage visualization to right above this section, the logical flow would be improved and the argument for telehealth as a solution would be more persuasive. 
+
+#### Making ‘Telehealth as a Solution to Rural Healthcare Access’ more interesting
+
+**Problem:** While the users find this section clear and relevant, they recommend using a visual like a picture or infographic because there aren’t any interesting visuals to capture your attention.
+
+**Solution:** Design a pictographic infographic that utilizes pictures to augment the evidence for telehealth as a solution to rural healthcare access. While I considered using regular images as a background, the list-like nature of this section seemed suitable for a pictographic infographic that utilizes a picture or icon to reinforce each point.
+
+#### Improve the legend for the maps
+
+**Problem:** Two users mentioned that the legends for the maps were unclear. They stated that it was not fully clear what number represented the division of categories in the legend, and they felt uncomfortable making assumptions. Additionally, they were confused by the upper limit as it changed between the two maps and did not seem to represent the actual top values present in the map.
+
+**Solution:** Create a new, more clear legend. The divisions at 25 MBPS and 100 MBPS should be clearly displayed. Additionally, the upper limit will be replaced with the highest value present on the map. 
+
+#### Rename and recolor the length of telehealth use visualization
+
+**Problem:** As detailed above, one user found the title of this visualization very confusing. Additionally, another user recommended a change in the color scale as the colors seemed somewhat off from the other colors used in the story.
+
+**Solution:** Since this graphic focuses on digital technology, I will utilize the same teal color I used in the broadband graphic. To focus on this color, I will use a gradient scale with light to dark indicating longer use. This corresponds to the previous utilization of this color to maintain the same theme throughout the visualizations. Additionally, I will change the title to ‘Urban Providers have been using Telehealth for longer than Rural Providers’.
+
+#### Declutter the dot plot
+
+**Problem:** Two of the users found the dot plot of barriers to telehealth use somewhat cluttered and found the individual components to be somewhat too small. 
+
+**Solution:** While one user recommended taking some of the data out, each of the points is involved in a trend I plan to talk about. However, I agree that the plot feels cluttered and could be more clear. I intend to increase the vertical spacing and the size of the graphic components, so that they can be read more easily. 
+
+#### Helping the reader discover more
+
+**Problem:** The wireframe discusses several policies that will be discussed in brief, and users mentioned that the audience may have a particular interest in reading more about these topics. They need an easy way to find more information.
+
+**Solution:** I will include in-text links to sources about these policies, so that readers can more easily access more information on these topics. 
+
+#### Make the call to action visual
+
+**Problem:** The final three sections are not very visual, and by the last section, the users indicated they were craving more visuals.
+
+**Solution:** I create a checklist style infographic to provide a simplified overview of the steps the reader should take to begin helping their community work toward sustainable telehealth implementation. The checklist style of the infographic will connote a series of actions that should be taken which will help remind readers that this is where they get involved.
+
+#### Include more images
+
+**Problems:** Some sections, like the policy sections do not have many visuals. The users indicated that sections without visuals felt somewhat dry.
+
+**Solution:** I will include images throughout the story. I will focus on including images that help establish a mood that focuses on rural communities and their health struggles. Additionally, I will choose images that feature people to emphasize the human and community aspects of this story. 
+
+
+
+
