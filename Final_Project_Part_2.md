@@ -124,7 +124,7 @@ For my wireframe, I included high fidelity versions of the major data visualizat
 
 |    <br>Questions    |    <br>User #1<br>   <br>Gender: Male<br>   <br>Age: 23<br>   <br>Hometown   Geography: Suburban near rural<br>   <br>Job: PhD   student<br>   <br>Background\Interests:   Bioengineering, mobility, mathematics, music    |    <br>User #2<br>   <br>Gender: Female<br>   <br>Age: 23<br>   <br>Hometown   Geography: Suburban near rural<br>   <br>Job: Healthcare   customer service<br>   <br>Background\Interests:   Art, music, psychology     |    <br>User #3<br>   <br>Gender: <br>   <br>Age:<br>   <br>Hometown   Geography:<br>   <br>Job:<br>   <br>Background:    |
 |---|---|---|---|
-|    <br>General Questions <br>
+|    <br>General Questions    |  |  |  |
 |    <br>How would   you summarize this story in 1-2 sentences?    |    <br>     |    <br>     |    <br>     |
 |    <br>Is there   anything you did not understand?    |    <br>     |    <br>     |    <br>     |
 |    <br>Is there   anything in particular that you really liked?    |    <br>     |    <br>     |    <br>     |
