@@ -120,6 +120,22 @@ For my wireframe, I included high fidelity versions of the major data visualizat
 
 ### Research Methods
 
+#### Participant Selection
+
+The intended audience for my story is public health professionals and community advocates with ties to rural communities. Unfortunately, I was unable to test the preliminary wireframe with individuals that fit the description. Instead, I selected three individuals that had either a health or policy related background, as public health officials and community advocates tend to have an interest in both health and policy. Throughout the interviews, I asked the participants to imagine themselves as a local public health worker or community advocate and to reflect on the information from that perspective. Additionally, I selected participants with diverse interests and backgrounds to best understand how people may approach the information differently. Participant 1 had a background in mathematics and was well-versed in data analysis as well as health. Participant 2 works in a health-related setting and has a background that focuses more on art and design. Participant 3 compliments the health perspectives with a more general policy perspective, which is useful for understanding how this information could impact community advocates who may not focus specifically on health.
+
+#### Protocol
+
+To develop a relevant script, I first established what I wanted to learn from the interviews. Ultimately, I composed a list of the five things I was most interested in soliciting feedback on:
+
+-	How clear are the intentions and meanings of the key parts of my story as detailed in the storyboard above?
+-	How clear and understandable are the visualizations?
+-	How well do the visualizations support the overarching story?
+-	How well does the story flow and build to the ultimate call to action?
+-	Are there any changes I could make that would make the story more meaningful and interesting to the reader?
+
+With these priorities in mind, I developed a list of questions that addressed the reader’s holistic perception of the story, each individual section, each visualization, and how well the visualizations and sections worked together. The questions are displayed in the interview results table below. To conduct the interviews, I recruited my participants and discussed my priorities for the interview, so that they had these key concepts in mind while reflecting on individual questions. I then asked the participants to read through the wireframe and think about it for a few minutes. Once they had an initial impression, I asked them my interview questions and recorded their responses. I allowed them to continue looking through the wireframe while answering the questions, so that they could directly identify the subjects of their critiques.
+
 ### User Interviews
 
 |    <br>Questions    |    <br>User #1<br>   <br>Gender: Male<br>   <br>Age: 23<br>   <br>Hometown   Geography: Suburban near rural<br>   <br>Job: PhD   student<br>   <br>Background\Interests:   Bioengineering, mobility, mathematics, music    |    <br>User #2<br>   <br>Gender: Female<br>   <br>Age: 23<br>   <br>Hometown   Geography: Suburban near rural<br>   <br>Job: Healthcare   customer service<br>   <br>Background\Interests:   Art, music, psychology     |    <br>User #3<br>   <br>Gender: Female<br>   <br>Age: 24<br>   <br>Hometown   Geography: Urban<br>   <br>Job: Student   <br>   <br>Background\interests:   Policy, environmental science, the outdoors    |
