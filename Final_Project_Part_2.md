@@ -45,7 +45,7 @@ For my wireframe, I included high fidelity versions of the major data visualizat
 ### III. Telehealth as a Solution to Rural Healthcare Access
 
 #### Why is telehealth particularly suitable for rural areas?
-- Address physician shortage by connecting patients to 
+- Address physician shortage by connecting patients to providers outside the immediate area
 - Timely care
 - Reduce transportation barriers
 - Support continuity of care 
@@ -180,3 +180,24 @@ With these priorities in mind, I developed a list of questions that addressed th
 |    <br>_Are there   any other data you would recommend presenting or any visualizations you would   add?_    |    <br>That last   infographic like I said.     |    <br>Not that I   can think of. Just pictures like I said.    |    <br>Some of the   sections that are more policy based than data based could use something visual   to help hold your attention. I really like infographics, personally. Like the   kind that call out interesting facts. But you could also use pictures or something.       |
 |    <br>_Is there   anything else you would recommend changing?_     |    <br>Could you   link to the policies, so the reader could learn more without having to go through   too much effort.    |    <br>Nope.    |    <br>Not that I   can think of.    |
 |    <br>_Any last   comments?_    |    <br>No.    |    <br>Nope. That   was pretty neat.     |    <br>That’s all I’ve   got.    |
+
+
+## Reflections on User Interviews
+
+### Alignment Between Interviews
+
+Overall, the feedback from each user aligned with the feedback from other participants. In particular, positive sentiments were generally shared among respondents. Additionally, for several of the visualizations, there were shared or similar criticisms. These common themes are further explored in the two sections below. One interesting critique stood apart from the others as it was only held by one user, but that user felt very passionate about it. User 1 was very confused by the title for the stacked bar chart of length of telehealth use among rural and urban providers. The original title was ‘Rural Providers Have Started Using Telehealth in Their Practices More Recently than Urban Providers’. The user was very confused by the title and said it distracted from the data. Specifically, he thought the words ‘more recently’ did not make sense. I discussed this with him and tried to understand the source of the confusion. Working together, we developed a new title for the visualization: ‘Urban Providers have been using Telehealth for longer than Rural Providers’.
+
+### Positive Feedback
+
+-	The users appreciated the color scheme and thought it was suitable for the data
+-	The users understood the main point of each section and were able to identify the reason each part was included
+-	The users found the visualizations impactful and thought they fit with the context of the broader narrative
+-	The users thought the call to action was clear and believed the story built up to the call to action in a logical way
+-	The users indicated that the story would make sense to the audience of interest and that the call to action was appropriate for that audience
+-	The users cited emotional impacts from some of the data visualizations and felt empathy for the challenges faced by rural communities
+
+
+### Implementing Constructive Criticism
+
+My user research interviews helped me identify unclear, confusing, and awkward aspects of my proposed story structure. Reflecting on these criticisms, I planned a series of changes that will help me improve the flow and impact for the final version of my story.
