@@ -32,4 +32,8 @@ https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_
 
 ## Final Project Part 3
 
+## Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America
+
+https://carnegiemellon.shorthandstories.com/strengthening-digital-infrastructure-and-telehealth-capabilities-for-a-healthier-rural-america/index.html
+
 
