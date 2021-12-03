@@ -14,14 +14,22 @@ I am taking telling stories with data to learn how to make clear, professional v
 
 # Portfolio
 
-## Data Visualization Critique #1
-
 ## Data Visualization Assignment 1
 
 https://aemichalowski.github.io/Data-Visualization-Portfolio/dataviz1_government_debt
 
-## Data Visualization Critique #2
-
 ## Data Visualization Assignment 2
 
-## Final Project
+https://aemichalowski.github.io/Data-Visualization-Portfolio/Critiquing_and_Revisualizing_Social_Media_data
+
+## Final Project Part 1
+
+https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1
+
+## Final Project Part 2
+
+https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_2
+
+## Final Project Part 3
+
+
