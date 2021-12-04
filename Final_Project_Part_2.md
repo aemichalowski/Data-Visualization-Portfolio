@@ -1,5 +1,5 @@
 
-[View Part 1](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1)
+[View Part 1](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1) \| [View Part 3](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_3)
 # Facilitating Telehealth to Promote Rural Health Project: Storyboard, Wireframes, and User Research
 
 ## Storyboard
