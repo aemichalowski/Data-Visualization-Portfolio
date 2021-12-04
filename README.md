@@ -16,25 +16,31 @@ I am taking telling stories with data to learn how to make clear, professional v
 
 ## Data Visualization Assignment 1
 
-https://aemichalowski.github.io/Data-Visualization-Portfolio/dataviz1_government_debt
+[https://aemichalowski.github.io/Data-Visualization-Portfolio/dataviz1_government_debt](https://aemichalowski.github.io/Data-Visualization-Portfolio/dataviz1_government_debt
+)
 
 ## Data Visualization Assignment 2
 
-https://aemichalowski.github.io/Data-Visualization-Portfolio/Critiquing_and_Revisualizing_Social_Media_data
+[https://aemichalowski.github.io/Data-Visualization-Portfolio/Critiquing_and_Revisualizing_Social_Media_data](https://aemichalowski.github.io/Data-Visualization-Portfolio/Critiquing_and_Revisualizing_Social_Media_data)
 
 ## Final Project Part 1
 
-https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1
+[https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1
+)
 
 ## Final Project Part 2
 
-https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_2
+[https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_2](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_2
+)
 
 ## Final Project Part 3
-https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_3
+
+[https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_3](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_3
+)
 
 ## Strengthening Digital Infrastructure and Telehealth Capabilities for a Healthier Rural America
 
-https://carnegiemellon.shorthandstories.com/strengthening-digital-infrastructure-and-telehealth-capabilities-for-a-healthier-rural-america/index.html
+[https://carnegiemellon.shorthandstories.com/strengthening-digital-infrastructure-and-telehealth-capabilities-for-a-healthier-rural-america/index.html](https://carnegiemellon.shorthandstories.com/strengthening-digital-infrastructure-and-telehealth-capabilities-for-a-healthier-rural-america/index.html
+)
 
 
