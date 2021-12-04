@@ -1,3 +1,5 @@
+[View Part 2](https://aemichalowski.github.io/Data-Visualization-Portfolio/Final_Project_Part_1)
+
 # Final Project Part 1
 
 ### Outline
